@@ -1,0 +1,323 @@
+[2018-11-04 14:41:46,948] INFO  Enter TestBase setUp
+[2018-11-04 14:41:46,958] INFO  Enter startNetworkTunnel() ...
+[2018-11-04 14:41:46,959] INFO  Starting Process with -  /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-04 14:41:46,962] INFO  Path = /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe
+[2018-11-04 14:41:47,004] INFO  Process started - /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-04 14:41:47,004] INFO  Setting up Desired Capabilities
+[2018-11-04 14:41:47,004] INFO  Device = @os='android'
+[2018-11-04 14:41:47,007] INFO  Device Query = @os='android'
+[2018-11-04 14:41:47,007] INFO  Desired Capabilities setup complete
+[2018-11-04 14:41:47,007] INFO  Initializing Android Driver ...
+[2018-11-04 14:42:08,513] INFO  Android Driver Initialized ...
+[2018-11-04 14:42:08,518] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-04 14:42:08,518] INFO  Loading Local App = http://192.168.2.44/
+[2018-11-04 14:42:08,518] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-04 14:43:27,245] INFO  Enter tearDown()
+[2018-11-04 14:43:27,245] INFO  destroying process
+[2018-11-04 14:43:42,324] INFO  Enter TestBase setUp
+[2018-11-04 14:43:42,342] INFO  Enter startNetworkTunnel() ...
+[2018-11-04 14:43:42,342] INFO  Starting Process with -  /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-04 14:43:42,342] INFO  Path = /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe
+[2018-11-04 14:43:42,372] INFO  Process started - /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-04 14:43:42,372] INFO  Setting up Desired Capabilities
+[2018-11-04 14:43:42,373] INFO  Device = @os='android'
+[2018-11-04 14:43:42,374] INFO  Device Query = @os='android'
+[2018-11-04 14:43:42,374] INFO  Desired Capabilities setup complete
+[2018-11-04 14:43:42,374] INFO  Initializing Android Driver ...
+[2018-11-04 14:44:06,552] INFO  Android Driver Initialized ...
+[2018-11-04 14:44:06,555] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-04 14:44:06,555] INFO  Loading Local App = http://192.168.2.44/
+[2018-11-04 14:44:06,555] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-04 14:44:17,406] INFO  Enter tearDown()
+[2018-11-04 14:44:17,406] INFO  destroying process
+[2018-11-04 14:44:37,325] INFO  Enter TestBase setUp
+[2018-11-04 14:44:37,331] INFO  Enter startNetworkTunnel() ...
+[2018-11-04 14:44:37,331] INFO  Starting Process with -  /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-04 14:44:37,333] INFO  Path = /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe
+[2018-11-04 14:44:37,347] INFO  Process started - /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-04 14:44:37,347] INFO  Setting up Desired Capabilities
+[2018-11-04 14:44:37,347] INFO  Device = @os='android'
+[2018-11-04 14:44:37,349] INFO  Device Query = @os='android'
+[2018-11-04 14:44:37,349] INFO  Desired Capabilities setup complete
+[2018-11-04 14:44:37,349] INFO  Initializing Android Driver ...
+[2018-11-04 14:44:57,920] INFO  Android Driver Initialized ...
+[2018-11-04 14:44:57,921] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-04 14:44:57,921] INFO  Loading Local App = http://192.168.2.44/
+[2018-11-04 14:44:57,921] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-04 14:46:12,862] INFO  Enter tearDown()
+[2018-11-04 14:46:12,862] INFO  destroying process
+[2018-11-04 14:56:40,550] INFO  Enter TestBase setUp
+[2018-11-04 14:56:40,559] INFO  Enter startNetworkTunnel() ...
+[2018-11-04 14:56:40,559] INFO  Starting Process with -  /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-04 14:56:40,561] INFO  Path = /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe
+[2018-11-04 14:56:40,582] INFO  Process started - /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-04 14:56:40,582] INFO  Setting up Desired Capabilities
+[2018-11-04 14:56:40,582] INFO  Device = @os='android'
+[2018-11-04 14:56:40,584] INFO  Device Query = @os='android'
+[2018-11-04 14:56:40,585] INFO  Desired Capabilities setup complete
+[2018-11-04 14:56:40,585] INFO  Initializing Android Driver ...
+[2018-11-04 14:57:01,447] INFO  Android Driver Initialized ...
+[2018-11-04 14:57:01,460] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-04 14:57:01,460] INFO  Loading Local App = http://192.168.1.4
+[2018-11-04 14:57:01,460] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-04 14:58:15,944] INFO  Enter tearDown()
+[2018-11-04 14:58:15,944] INFO  destroying process
+[2018-11-04 15:10:19,742] INFO  Enter TestBase setUp
+[2018-11-04 15:10:19,749] INFO  Enter startNetworkTunnel() ...
+[2018-11-04 15:10:19,753] INFO  Starting Process with -  /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-04 15:10:19,758] INFO  Path = /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe
+[2018-11-04 15:10:19,813] INFO  Process started - /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-04 15:10:19,813] INFO  Setting up Desired Capabilities
+[2018-11-04 15:10:19,813] INFO  Device = @os='android'
+[2018-11-04 15:10:19,833] INFO  Device Query = @os='android'
+[2018-11-04 15:10:19,833] INFO  Desired Capabilities setup complete
+[2018-11-04 15:10:19,833] INFO  Initializing Android Driver ...
+[2018-11-04 15:10:45,307] INFO  Android Driver Initialized ...
+[2018-11-04 15:10:45,317] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-04 15:10:45,318] INFO  Loading Local App = http://192.168.1.4
+[2018-11-04 15:10:45,318] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-04 15:10:56,590] INFO  Expected = null; Actual = Hello World!
+[2018-11-04 15:10:56,606] INFO  Enter tearDown()
+[2018-11-04 15:10:56,606] INFO  destroying process
+[2018-11-04 15:11:10,137] INFO  Enter TestBase setUp
+[2018-11-04 15:11:10,141] INFO  Enter startNetworkTunnel() ...
+[2018-11-04 15:11:10,141] INFO  Starting Process with -  /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-04 15:11:10,147] INFO  Path = /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe
+[2018-11-04 15:11:10,168] INFO  Process started - /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-04 15:11:10,168] INFO  Setting up Desired Capabilities
+[2018-11-04 15:11:10,168] INFO  Connecting to device = 85b65151454a4f54
+[2018-11-04 15:11:10,168] INFO  Desired Capabilities setup complete
+[2018-11-04 15:11:10,168] INFO  Initializing Android Driver ...
+[2018-11-04 15:19:28,382] INFO  Enter TestBase setUp
+[2018-11-04 15:19:28,386] INFO  Enter startNetworkTunnel() ...
+[2018-11-04 15:19:28,386] INFO  Starting Process with -  /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-04 15:19:28,390] INFO  Path = /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe
+[2018-11-04 15:19:28,418] INFO  Process started - /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-04 15:19:28,418] INFO  Setting up Desired Capabilities
+[2018-11-04 15:19:28,418] INFO  Connecting to device = 
+[2018-11-04 15:19:28,418] INFO  Desired Capabilities setup complete
+[2018-11-04 15:19:28,418] INFO  Initializing Android Driver ...
+[2018-11-04 15:19:53,122] INFO  Android Driver Initialized ...
+[2018-11-04 15:19:53,130] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-04 15:19:53,130] INFO  Loading Local App = http://192.168.1.4
+[2018-11-04 15:19:53,131] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-04 15:20:04,183] INFO  Expected = null; Actual = Hello World!
+[2018-11-04 15:20:04,211] INFO  Enter tearDown()
+[2018-11-04 15:20:04,211] INFO  destroying process
+[2018-11-04 15:22:00,660] INFO  Enter TestBase setUp
+[2018-11-04 15:22:00,665] INFO  Enter startNetworkTunnel() ...
+[2018-11-04 15:22:00,666] INFO  Starting Process with -  /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-04 15:22:00,670] INFO  Path = /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe
+[2018-11-04 15:22:00,687] INFO  Process started - /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-04 15:22:00,687] INFO  Setting up Desired Capabilities
+[2018-11-04 15:22:00,687] INFO  Connecting to device = 
+[2018-11-04 15:22:00,687] INFO  Desired Capabilities setup complete
+[2018-11-04 15:22:00,687] INFO  Initializing Android Driver ...
+[2018-11-04 15:22:24,224] INFO  Android Driver Initialized ...
+[2018-11-04 15:22:24,233] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-04 15:22:24,233] INFO  Loading Local App = http://192.168.1.4
+[2018-11-04 15:22:24,233] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-04 15:22:35,359] INFO  Expected = Hello World!; Actual = Hello World!
+[2018-11-04 15:22:35,360] INFO  Exit testSampleNetworkTunnelTest()
+[2018-11-04 15:22:35,360] INFO  Enter tearDown()
+[2018-11-04 15:22:35,360] INFO  destroying process
+[2018-11-04 15:23:50,854] INFO  Enter TestBase setUp
+[2018-11-04 15:23:50,858] INFO  Enter startNetworkTunnel() ...
+[2018-11-04 15:25:21,946] INFO  Enter TestBase setUp
+[2018-11-04 15:25:21,954] INFO  Enter startNetworkTunnel() ...
+[2018-11-04 15:25:21,976] INFO  Starting Process with -  /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-04 15:25:21,981] INFO  Path = /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel
+[2018-11-04 15:25:22,169] INFO  Process started - /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-04 15:25:22,169] INFO  Setting up Desired Capabilities
+[2018-11-04 15:25:22,169] INFO  Connecting to device = 
+[2018-11-04 15:25:22,169] INFO  Desired Capabilities setup complete
+[2018-11-04 15:25:22,170] INFO  Initializing Android Driver ...
+[2018-11-04 15:25:51,374] INFO  Android Driver Initialized ...
+[2018-11-04 15:25:51,383] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-04 15:25:51,383] INFO  Loading Local App = http://192.168.1.4
+[2018-11-04 15:25:51,383] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-04 15:26:02,174] INFO  Expected = Hello World!; Actual = Hello World!
+[2018-11-04 15:26:02,174] INFO  Exit testSampleNetworkTunnelTest()
+[2018-11-04 15:26:02,174] INFO  Enter tearDown()
+[2018-11-04 15:26:02,178] INFO  destroying process
+[2018-11-04 15:29:28,543] INFO  Enter TestBase setUp
+[2018-11-04 15:29:28,550] INFO  Enter startNetworkTunnel() ...
+[2018-11-04 15:29:59,700] INFO  Enter TestBase setUp
+[2018-11-04 15:29:59,705] INFO  Enter startNetworkTunnel() ...
+[2018-11-04 15:40:30,890] INFO  Enter TestBase setUp
+[2018-11-04 15:40:30,895] INFO  Enter startNetworkTunnel() ...
+[2018-11-04 15:41:05,464] INFO  Enter TestBase setUp
+[2018-11-04 15:41:05,468] INFO  Enter startNetworkTunnel() ...
+[2018-11-04 15:45:32,648] INFO  Enter TestBase setUp
+[2018-11-04 15:45:32,652] INFO  Enter startNetworkTunnel() ...
+[2018-11-04 15:49:48,736] INFO  Starting Process with -  /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key null
+[2018-11-04 15:49:48,737] INFO  Path = /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe
+[2018-11-04 15:53:22,580] INFO  Enter TestBase setUp
+[2018-11-04 15:53:22,588] INFO  Enter startNetworkTunnel() ...
+[2018-11-04 15:53:22,588] INFO  Starting Process with -  /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel --url https://cloud.seetest.io:443/ws-istp --access-key null
+[2018-11-04 15:53:22,595] INFO  Path = /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel
+[2018-11-04 15:54:43,152] INFO  Enter TestBase setUp
+[2018-11-04 15:54:43,156] INFO  Enter startNetworkTunnel() ...
+[2018-11-04 15:54:43,160] INFO  Starting Process with -  /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key null
+[2018-11-04 15:54:43,160] INFO  Path = /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe
+[2018-11-04 15:55:17,182] INFO  Enter TestBase setUp
+[2018-11-04 15:55:17,186] INFO  Enter startNetworkTunnel() ...
+[2018-11-04 15:55:17,186] INFO  Starting Process with -  /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key null
+[2018-11-04 15:55:17,191] INFO  Path = /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe
+[2018-11-04 15:56:06,526] INFO  Enter TestBase setUp
+[2018-11-04 15:56:06,530] INFO  Enter startNetworkTunnel() ...
+[2018-11-04 15:56:23,040] INFO  Enter TestBase setUp
+[2018-11-04 15:56:23,045] INFO  Enter startNetworkTunnel() ...
+[2018-11-04 15:57:06,982] INFO  Enter TestBase setUp
+[2018-11-04 15:57:06,986] INFO  Enter startNetworkTunnel() ...
+[2018-11-04 15:57:06,991] INFO  Starting Process with -  /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key null
+[2018-11-04 15:57:06,992] INFO  Path = /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe
+[2018-11-04 15:58:08,584] INFO  Enter TestBase setUp
+[2018-11-04 15:58:08,595] INFO  Enter startNetworkTunnel() ...
+[2018-11-04 15:58:08,595] INFO  Starting Process with -  /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-04 15:58:08,599] INFO  Path = /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe
+[2018-11-04 15:58:08,638] INFO  Process started - /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-04 15:58:08,638] INFO  Setting up Desired Capabilities
+[2018-11-04 15:58:08,638] INFO  Connecting to device = 
+[2018-11-04 15:58:08,638] INFO  Desired Capabilities setup complete
+[2018-11-04 15:58:08,638] INFO  Initializing Android Driver ...
+[2018-11-04 15:58:31,176] INFO  Android Driver Initialized ...
+[2018-11-04 15:58:31,183] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-04 15:58:31,183] INFO  Loading Local App = http://192.168.1.4
+[2018-11-04 15:58:31,183] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-04 15:58:42,967] INFO  Expected = Hello World!; Actual = Hello World!
+[2018-11-04 15:58:42,968] INFO  Exit testSampleNetworkTunnelTest()
+[2018-11-04 15:58:42,974] INFO  Enter tearDown()
+[2018-11-04 15:58:42,974] INFO  destroying process
+[2018-11-04 16:03:17,217] INFO  Enter TestBase setUp
+[2018-11-04 16:03:17,222] INFO  Enter startNetworkTunnel() ...
+[2018-11-04 16:03:17,226] INFO  Starting Process with -  /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-04 16:03:17,230] INFO  Path = /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe
+[2018-11-04 16:03:17,248] INFO  Process started - /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-04 16:03:17,248] INFO  Setting up Desired Capabilities
+[2018-11-04 16:03:49,018] INFO  Enter TestBase setUp
+[2018-11-04 16:03:49,023] INFO  Enter startNetworkTunnel() ...
+[2018-11-04 16:03:49,023] INFO  Starting Process with -  /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-04 16:03:49,027] INFO  Path = /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe
+[2018-11-04 16:03:49,043] INFO  Process started - /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-04 16:03:49,043] INFO  Setting up Desired Capabilities
+[2018-11-04 16:03:49,043] INFO  Device = @os='android'
+[2018-11-04 16:03:49,043] INFO  Device Query = @os='android'
+[2018-11-04 16:03:49,043] INFO  Desired Capabilities setup complete
+[2018-11-04 16:03:49,043] INFO  Initializing Android Driver ...
+[2018-11-04 16:04:13,834] INFO  Android Driver Initialized ...
+[2018-11-04 16:04:13,844] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-04 16:04:13,848] INFO  Loading Local App = http://192.168.1.4
+[2018-11-04 16:04:13,848] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-04 16:04:25,070] INFO  Expected = Hello World!; Actual = Hello World!
+[2018-11-04 16:04:25,076] INFO  Exit testSampleNetworkTunnelTest()
+[2018-11-04 16:04:25,077] INFO  Enter tearDown()
+[2018-11-04 16:04:25,078] INFO  destroying network tunnel process
+[2018-11-04 16:05:08,117] INFO  Enter TestBase setUp
+[2018-11-04 16:05:08,128] INFO  Enter startNetworkTunnel() ...
+[2018-11-04 16:05:08,128] INFO  Starting Process with -  /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-04 16:05:08,132] INFO  Path = /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe
+[2018-11-04 16:05:08,157] INFO  Process started - /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-04 16:05:08,157] INFO  Setting up Desired Capabilities
+[2018-11-04 16:05:08,157] INFO  Device = @os='android'
+[2018-11-04 16:05:08,161] INFO  Device Query = @os='android'
+[2018-11-04 16:05:08,161] INFO  Desired Capabilities setup complete
+[2018-11-04 16:05:08,161] INFO  Initializing Android Driver ...
+[2018-11-04 16:05:26,963] INFO  Android Driver Initialized ...
+[2018-11-04 16:05:26,969] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-04 16:05:26,969] INFO  Loading Local App = http://192.168.1.4
+[2018-11-04 16:05:26,969] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-04 16:06:42,355] INFO  Enter tearDown()
+[2018-11-04 16:06:42,355] INFO  destroying network tunnel process
+[2018-11-04 16:07:54,892] INFO  Enter TestBase setUp
+[2018-11-04 16:07:54,897] INFO  Enter startNetworkTunnel() ...
+[2018-11-04 16:07:54,897] INFO  Starting Process with -  /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-04 16:07:54,901] INFO  Path = /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel
+[2018-11-04 16:07:55,049] INFO  Process started - /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-04 16:07:55,049] INFO  Setting up Desired Capabilities
+[2018-11-04 16:07:55,049] INFO  Device = @os='android'
+[2018-11-04 16:07:55,051] INFO  Device Query = @os='android'
+[2018-11-04 16:07:55,051] INFO  Desired Capabilities setup complete
+[2018-11-04 16:07:55,051] INFO  Initializing Android Driver ...
+[2018-11-04 16:08:16,983] INFO  Android Driver Initialized ...
+[2018-11-04 16:08:16,992] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-04 16:08:16,993] INFO  Loading Local App = http://192.168.1.4
+[2018-11-04 16:08:16,993] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-04 16:09:32,025] INFO  Enter tearDown()
+[2018-11-04 16:09:32,025] INFO  destroying network tunnel process
+[2018-11-04 16:20:13,302] INFO  Enter TestBase setUp
+[2018-11-04 16:20:13,317] INFO  Enter startNetworkTunnel() ...
+[2018-11-04 16:20:13,317] INFO  Starting Process with -  /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-04 16:20:13,321] INFO  Path = /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel
+[2018-11-04 16:20:13,398] INFO  Process started - /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-04 16:20:13,398] INFO  Setting up Desired Capabilities
+[2018-11-04 16:20:13,398] INFO  Device = @os='android'
+[2018-11-04 16:20:13,399] INFO  Device Query = @os='android'
+[2018-11-04 16:20:13,399] INFO  Desired Capabilities setup complete
+[2018-11-04 16:20:13,399] INFO  Initializing Android Driver ...
+[2018-11-04 16:20:37,481] INFO  Android Driver Initialized ...
+[2018-11-04 16:20:37,484] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-04 16:20:37,485] INFO  Loading Local App = http://192.168.1.4
+[2018-11-04 16:20:37,485] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-04 16:20:49,234] INFO  Expected = Hello World!; Actual = Hello World!
+[2018-11-04 16:20:49,236] INFO  Exit testSampleNetworkTunnelTest()
+[2018-11-04 16:20:49,240] INFO  Enter tearDown()
+[2018-11-04 16:20:49,240] INFO  destroying network tunnel process
+[2018-11-04 16:41:42,799] INFO  Enter TestBase setUp
+[2018-11-04 16:41:42,803] INFO  Enter startNetworkTunnel() ...
+[2018-11-04 16:41:42,807] INFO  Starting Process with -  /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-04 16:41:42,813] INFO  Path = /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel
+[2018-11-04 16:41:42,830] INFO  Process started - /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-04 16:41:42,834] INFO  Setting up Desired Capabilities
+[2018-11-04 16:41:42,834] INFO  Device = @os='android'
+[2018-11-04 16:41:42,834] INFO  Device Query = @os='android'
+[2018-11-04 16:41:42,834] INFO  Desired Capabilities setup complete
+[2018-11-04 16:41:42,834] INFO  Initializing Android Driver ...
+[2018-11-04 16:42:05,880] INFO  Android Driver Initialized ...
+[2018-11-04 16:42:05,905] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-04 16:42:05,905] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-04 16:42:05,905] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-04 16:42:05,905] INFO  Loading Local App = http://192.168.1.4
+[2018-11-04 16:42:05,905] INFO  Loading Local App = http://192.168.1.4
+[2018-11-04 16:42:05,905] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-04 16:42:05,905] INFO  Loading Local App = http://192.168.1.4
+[2018-11-04 16:42:05,905] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-04 16:42:05,910] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-04 16:42:27,800] INFO  Expected = Hello World!; Actual = Hello World!
+[2018-11-04 16:42:27,805] INFO  Exit testSampleNetworkTunnelTest()
+[2018-11-04 16:42:27,808] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-04 16:42:27,810] INFO  Loading Local App = http://192.168.1.4
+[2018-11-04 16:42:27,810] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-04 16:42:37,186] INFO  Expected = Hello World!; Actual = Hello World!
+[2018-11-04 16:42:37,186] INFO  Exit testSampleNetworkTunnelTest()
+[2018-11-04 16:42:37,190] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-04 16:42:37,190] INFO  Loading Local App = http://192.168.1.4
+[2018-11-04 16:42:37,190] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-04 16:42:40,606] INFO  Expected = Hello World!; Actual = Hello World!
+[2018-11-04 16:42:40,606] INFO  Exit testSampleNetworkTunnelTest()
+[2018-11-04 16:42:40,606] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-04 16:42:40,606] INFO  Loading Local App = http://192.168.1.4
+[2018-11-04 16:42:40,606] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-04 16:42:41,229] INFO  Expected = Hello World!; Actual = Hello World!
+[2018-11-04 16:42:41,231] INFO  Exit testSampleNetworkTunnelTest()
+[2018-11-04 16:42:41,233] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-04 16:42:41,233] INFO  Loading Local App = http://192.168.1.4
+[2018-11-04 16:42:41,233] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-04 16:43:02,768] INFO  Expected = Hello World!; Actual = Hello World!
+[2018-11-04 16:43:02,768] INFO  Exit testSampleNetworkTunnelTest()
+[2018-11-04 16:43:02,768] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-04 16:43:02,768] INFO  Loading Local App = http://192.168.1.4
+[2018-11-04 16:43:02,768] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-04 16:43:11,978] INFO  Expected = Hello World!; Actual = Hello World!
+[2018-11-04 16:43:11,978] INFO  Exit testSampleNetworkTunnelTest()
+[2018-11-04 16:43:11,980] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-04 16:43:11,981] INFO  Loading Local App = http://192.168.1.4
+[2018-11-04 16:43:11,981] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-04 16:43:14,903] INFO  Expected = Hello World!; Actual = Hello World!
+[2018-11-04 16:43:14,904] INFO  Exit testSampleNetworkTunnelTest()
+[2018-11-04 16:43:15,775] INFO  Expected = Hello World!; Actual = Hello World!
+[2018-11-04 16:43:15,779] INFO  Exit testSampleNetworkTunnelTest()
+[2018-11-04 16:43:25,079] INFO  Expected = Hello World!; Actual = Hello World!
+[2018-11-04 16:43:25,081] INFO  Exit testSampleNetworkTunnelTest()
+[2018-11-04 16:43:25,093] INFO  Enter tearDown()
+[2018-11-04 16:43:25,093] INFO  destroying network tunnel process

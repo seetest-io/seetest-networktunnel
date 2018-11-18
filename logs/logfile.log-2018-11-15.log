@@ -1,0 +1,380 @@
+[2018-11-15 20:12:47,785] INFO  Enter TestBase setUp
+[2018-11-15 20:12:47,800] INFO  Enter startNetworkTunnel() ...
+[2018-11-15 20:13:36,615] INFO  Enter TestBase setUp
+[2018-11-15 20:13:36,623] INFO  Enter TestBase setUp
+[2018-11-15 20:13:36,625] INFO  Enter loadInitProperties() ...
+[2018-11-15 20:13:36,630] INFO  --------- List Of Properties ---------
+[2018-11-15 20:13:36,693] INFO  Key = seetest.network.tunnelpath ; Value = C:\Users\kishore.kameshwar\Downloads\network-tunnels
+[2018-11-15 20:13:36,693] INFO  Key = xpath.query ; Value = //*[@nodeName='PRE']
+[2018-11-15 20:13:36,693] INFO  Key = ios.app.name ; Value = com.experitest.ExperiBank
+[2018-11-15 20:13:36,694] INFO  Key = local.app.url ; Value = http://192.168.1.4
+[2018-11-15 20:13:36,694] INFO  Key = android.app.name ; Value = com.experitest.ExperiBank/.LoginActivity
+[2018-11-15 20:13:36,694] INFO  Key = seetest.cloud.url ; Value = https://cloud.seetest.io:443/wd/hub
+[2018-11-15 20:13:36,694] INFO  Key = expected_value ; Value = Hello World!
+[2018-11-15 20:13:36,694] INFO  --------- END ---------
+[2018-11-15 20:13:36,694] INFO  Exit loadInitProperties() ...
+[2018-11-15 20:13:36,694] INFO  Setting up Desired Capabilities
+[2018-11-15 20:13:36,700] INFO  Device Query = @os='null'
+[2018-11-15 20:13:36,700] INFO  Desired Capabilities setup complete
+[2018-11-15 20:14:19,552] INFO  Enter TestBase setUp
+[2018-11-15 20:14:19,557] INFO  Enter TestBase setUp
+[2018-11-15 20:14:19,558] INFO  Enter loadInitProperties() ...
+[2018-11-15 20:14:19,564] INFO  --------- List Of Properties ---------
+[2018-11-15 20:14:19,630] INFO  Key = seetest.network.tunnelpath ; Value = C:\Users\kishore.kameshwar\Downloads\network-tunnels
+[2018-11-15 20:14:19,630] INFO  Key = xpath.query ; Value = //*[@nodeName='PRE']
+[2018-11-15 20:14:19,630] INFO  Key = ios.app.name ; Value = com.experitest.ExperiBank
+[2018-11-15 20:14:19,630] INFO  Key = local.app.url ; Value = http://192.168.1.4
+[2018-11-15 20:14:19,630] INFO  Key = android.app.name ; Value = com.experitest.ExperiBank/.LoginActivity
+[2018-11-15 20:14:19,630] INFO  Key = seetest.cloud.url ; Value = https://cloud.seetest.io:443/wd/hub
+[2018-11-15 20:14:19,630] INFO  Key = expected_value ; Value = Hello World!
+[2018-11-15 20:14:19,630] INFO  --------- END ---------
+[2018-11-15 20:14:19,631] INFO  Exit loadInitProperties() ...
+[2018-11-15 20:14:19,631] INFO  Setting up Desired Capabilities
+[2018-11-15 20:14:19,637] INFO  Device Query = @os='null'
+[2018-11-15 20:14:19,637] INFO  Desired Capabilities setup complete
+[2018-11-15 20:16:17,500] INFO  Enter TestBase setUp
+[2018-11-15 20:16:17,502] INFO  Enter TestBase setUp
+[2018-11-15 20:16:17,506] INFO  Enter loadInitProperties() ...
+[2018-11-15 20:16:17,510] INFO  --------- List Of Properties ---------
+[2018-11-15 20:16:17,574] INFO  Key = seetest.network.tunnelpath ; Value = C:\Users\kishore.kameshwar\Downloads\network-tunnels
+[2018-11-15 20:16:17,574] INFO  Key = xpath.query ; Value = //*[@nodeName='PRE']
+[2018-11-15 20:16:17,574] INFO  Key = ios.app.name ; Value = com.experitest.ExperiBank
+[2018-11-15 20:16:17,574] INFO  Key = local.app.url ; Value = http://192.168.1.4
+[2018-11-15 20:16:17,574] INFO  Key = android.app.name ; Value = com.experitest.ExperiBank/.LoginActivity
+[2018-11-15 20:16:17,574] INFO  Key = seetest.cloud.url ; Value = https://cloud.seetest.io:443/wd/hub
+[2018-11-15 20:16:17,574] INFO  Key = expected_value ; Value = Hello World!
+[2018-11-15 20:16:17,574] INFO  --------- END ---------
+[2018-11-15 20:16:17,574] INFO  Exit loadInitProperties() ...
+[2018-11-15 20:16:17,574] INFO  Setting up Desired Capabilities
+[2018-11-15 20:16:17,579] INFO  Device Query = @os='android'
+[2018-11-15 20:16:17,579] INFO  Desired Capabilities setup complete
+[2018-11-15 20:32:44,436] INFO  Enter TestBase setUp
+[2018-11-15 20:32:44,436] INFO  Enter TestBase setUp
+[2018-11-15 20:32:44,440] INFO  Enter loadInitProperties() ...
+[2018-11-15 20:32:44,447] INFO  --------- List Of Properties ---------
+[2018-11-15 20:32:44,512] INFO  Key = seetest.network.tunnelpath ; Value = C:\Users\kishore.kameshwar\Downloads\network-tunnels
+[2018-11-15 20:32:44,512] INFO  Key = xpath.query ; Value = //*[@nodeName='PRE']
+[2018-11-15 20:32:44,512] INFO  Key = ios.app.name ; Value = com.experitest.ExperiBank
+[2018-11-15 20:32:44,512] INFO  Key = local.app.url ; Value = http://192.168.1.4
+[2018-11-15 20:32:44,513] INFO  Key = android.app.name ; Value = com.experitest.ExperiBank/.LoginActivity
+[2018-11-15 20:32:44,513] INFO  Key = seetest.cloud.url ; Value = https://cloud.seetest.io:443/wd/hub
+[2018-11-15 20:32:44,513] INFO  Key = expected_value ; Value = Hello World!
+[2018-11-15 20:32:44,513] INFO  --------- END ---------
+[2018-11-15 20:32:44,513] INFO  Exit loadInitProperties() ...
+[2018-11-15 20:32:44,513] INFO  Setting up Desired Capabilities
+[2018-11-15 20:32:44,520] INFO  Device Query = @os='android'
+[2018-11-15 20:32:44,520] INFO  Desired Capabilities setup complete
+[2018-11-15 20:37:47,014] INFO  Enter TestBase setUp
+[2018-11-15 20:37:47,018] INFO  Enter TestBase setUp
+[2018-11-15 20:37:47,023] INFO  Enter loadInitProperties() ...
+[2018-11-15 20:37:47,023] INFO  --------- List Of Properties ---------
+[2018-11-15 20:37:47,085] INFO  Key = seetest.network.tunnelpath ; Value = C:\Users\kishore.kameshwar\Downloads\network-tunnels
+[2018-11-15 20:37:47,086] INFO  Key = xpath.query ; Value = //*[@nodeName='PRE']
+[2018-11-15 20:37:47,086] INFO  Key = ios.app.name ; Value = com.experitest.ExperiBank
+[2018-11-15 20:37:47,086] INFO  Key = local.app.url ; Value = http://192.168.1.4
+[2018-11-15 20:37:47,086] INFO  Key = android.app.name ; Value = com.experitest.ExperiBank/.LoginActivity
+[2018-11-15 20:37:47,086] INFO  Key = seetest.cloud.url ; Value = https://cloud.seetest.io:443/wd/hub
+[2018-11-15 20:37:47,086] INFO  Key = expected_value ; Value = Hello World!
+[2018-11-15 20:37:47,086] INFO  --------- END ---------
+[2018-11-15 20:37:47,087] INFO  Exit loadInitProperties() ...
+[2018-11-15 20:37:47,087] INFO  Setting up Desired Capabilities
+[2018-11-15 20:37:47,093] INFO  Device Query = @os='android'
+[2018-11-15 20:37:47,093] INFO  Desired Capabilities setup complete
+[2018-11-15 20:38:10,587] INFO  Enter startNetworkTunnel() ...
+[2018-11-15 20:38:10,587] INFO  Starting Process with -  C:\Users\kishore.kameshwar\Downloads\network-tunnels --url https://cloud.seetest.io/ws-istp --access-key null
+[2018-11-15 20:38:10,587] INFO  Path = C:\Users\kishore.kameshwar\Downloads\network-tunnels
+[2018-11-15 20:38:42,017] INFO  Enter TestBase setUp
+[2018-11-15 20:38:42,019] INFO  Enter TestBase setUp
+[2018-11-15 20:38:42,026] INFO  Enter loadInitProperties() ...
+[2018-11-15 20:38:42,030] INFO  --------- List Of Properties ---------
+[2018-11-15 20:38:42,094] INFO  Key = seetest.network.tunnelpath ; Value = C:\Users\kishore.kameshwar\Downloads\network-tunnel
+[2018-11-15 20:38:42,094] INFO  Key = xpath.query ; Value = //*[@nodeName='PRE']
+[2018-11-15 20:38:42,094] INFO  Key = ios.app.name ; Value = com.experitest.ExperiBank
+[2018-11-15 20:38:42,094] INFO  Key = local.app.url ; Value = http://192.168.1.4
+[2018-11-15 20:38:42,094] INFO  Key = android.app.name ; Value = com.experitest.ExperiBank/.LoginActivity
+[2018-11-15 20:38:42,095] INFO  Key = seetest.cloud.url ; Value = https://cloud.seetest.io:443/wd/hub
+[2018-11-15 20:38:42,095] INFO  Key = expected_value ; Value = Hello World!
+[2018-11-15 20:38:42,095] INFO  --------- END ---------
+[2018-11-15 20:38:42,095] INFO  Exit loadInitProperties() ...
+[2018-11-15 20:38:42,095] INFO  Setting up Desired Capabilities
+[2018-11-15 20:38:42,098] INFO  Device Query = @os='android'
+[2018-11-15 20:38:42,098] INFO  Desired Capabilities setup complete
+[2018-11-15 20:39:18,003] INFO  Enter startNetworkTunnel() ...
+[2018-11-15 20:39:18,003] INFO  Starting Process with -  C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io/ws-istp --access-key null
+[2018-11-15 20:39:18,007] INFO  Path = C:\Users\kishore.kameshwar\Downloads\network-tunnel
+[2018-11-15 20:40:55,052] INFO  Enter TestBase setUp
+[2018-11-15 20:40:55,054] INFO  Enter TestBase setUp
+[2018-11-15 20:40:55,056] INFO  Enter loadInitProperties() ...
+[2018-11-15 20:40:55,059] INFO  --------- List Of Properties ---------
+[2018-11-15 20:40:55,122] INFO  Key = seetest.network.tunnelpath ; Value = C:\Users\kishore.kameshwar\Downloads\network-tunnel.exe
+[2018-11-15 20:40:55,123] INFO  Key = xpath.query ; Value = //*[@nodeName='PRE']
+[2018-11-15 20:40:55,123] INFO  Key = ios.app.name ; Value = com.experitest.ExperiBank
+[2018-11-15 20:40:55,123] INFO  Key = local.app.url ; Value = http://192.168.1.4
+[2018-11-15 20:40:55,123] INFO  Key = android.app.name ; Value = com.experitest.ExperiBank/.LoginActivity
+[2018-11-15 20:40:55,123] INFO  Key = seetest.cloud.url ; Value = https://cloud.seetest.io:443/wd/hub
+[2018-11-15 20:40:55,123] INFO  Key = expected_value ; Value = Hello World!
+[2018-11-15 20:40:55,123] INFO  --------- END ---------
+[2018-11-15 20:40:55,123] INFO  Exit loadInitProperties() ...
+[2018-11-15 20:40:55,123] INFO  Setting up Desired Capabilities
+[2018-11-15 20:40:55,129] INFO  Device Query = @os='android'
+[2018-11-15 20:40:55,129] INFO  Desired Capabilities setup complete
+[2018-11-15 20:41:24,316] INFO  Enter TestBase setUp
+[2018-11-15 20:41:24,318] INFO  Enter TestBase setUp
+[2018-11-15 20:41:24,321] INFO  Enter loadInitProperties() ...
+[2018-11-15 20:41:24,326] INFO  --------- List Of Properties ---------
+[2018-11-15 20:41:24,401] INFO  Key = seetest.network.tunnelpath ; Value = C:\Users\kishore.kameshwar\Downloads\network-tunnel
+[2018-11-15 20:41:24,401] INFO  Key = xpath.query ; Value = //*[@nodeName='PRE']
+[2018-11-15 20:41:24,402] INFO  Key = ios.app.name ; Value = com.experitest.ExperiBank
+[2018-11-15 20:41:24,402] INFO  Key = local.app.url ; Value = http://192.168.1.4
+[2018-11-15 20:41:24,402] INFO  Key = android.app.name ; Value = com.experitest.ExperiBank/.LoginActivity
+[2018-11-15 20:41:24,402] INFO  Key = seetest.cloud.url ; Value = https://cloud.seetest.io:443/wd/hub
+[2018-11-15 20:41:24,402] INFO  Key = expected_value ; Value = Hello World!
+[2018-11-15 20:41:24,402] INFO  --------- END ---------
+[2018-11-15 20:41:24,403] INFO  Exit loadInitProperties() ...
+[2018-11-15 20:41:24,403] INFO  Setting up Desired Capabilities
+[2018-11-15 20:41:24,410] INFO  Device Query = @os='android'
+[2018-11-15 20:41:24,410] INFO  Desired Capabilities setup complete
+[2018-11-15 20:42:03,522] INFO  Enter startNetworkTunnel() ...
+[2018-11-15 20:42:03,523] INFO  Starting Process with -  C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io/ws-istp --access-key eyJ4cC51IjoyMzIyMjk1LCJ4cC5wIjozLCJ4cC5tIjoiTVRVME1EZ3dOemN6T0RNNU5BIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTYxNjc3MzgsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.vnifvEzvQmT31AqhmX9KD_P-kg2Br9CezcBKFGr_Omk
+[2018-11-15 20:42:03,523] INFO  Path = C:\Users\kishore.kameshwar\Downloads\network-tunnel
+[2018-11-15 20:42:03,731] INFO  Process started - C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io/ws-istp --access-key eyJ4cC51IjoyMzIyMjk1LCJ4cC5wIjozLCJ4cC5tIjoiTVRVME1EZ3dOemN6T0RNNU5BIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTYxNjc3MzgsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.vnifvEzvQmT31AqhmX9KD_P-kg2Br9CezcBKFGr_Omk
+[2018-11-15 20:42:03,732] INFO  Exit TestBase setUp
+[2018-11-15 20:42:03,750] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-15 20:42:03,750] INFO  Loading Local App = http://192.168.1.4
+[2018-11-15 20:42:03,756] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-15 20:43:44,096] INFO  Enter tearDown()
+[2018-11-15 20:43:44,096] INFO  destroying network tunnel process
+[2018-11-15 20:57:06,969] INFO  Enter TestBase setUp
+[2018-11-15 20:57:06,976] INFO  Enter TestBase setUp
+[2018-11-15 20:57:06,979] INFO  Enter loadInitProperties() ...
+[2018-11-15 20:57:06,985] INFO  --------- List Of Properties ---------
+[2018-11-15 20:57:07,049] INFO  Key = seetest.network.tunnelpath ; Value = C:\Users\kishore.kameshwar\Downloads\network-tunnel
+[2018-11-15 20:57:07,049] INFO  Key = xpath.query ; Value = //*[@nodeName='PRE']
+[2018-11-15 20:57:07,050] INFO  Key = ios.app.name ; Value = com.experitest.ExperiBank
+[2018-11-15 20:57:07,050] INFO  Key = local.app.url ; Value = http://192.168.1.4
+[2018-11-15 20:57:07,050] INFO  Key = android.app.name ; Value = com.experitest.ExperiBank/.LoginActivity
+[2018-11-15 20:57:07,050] INFO  Key = seetest.cloud.url ; Value = https://cloud.seetest.io:443/wd/hub
+[2018-11-15 20:57:07,050] INFO  Key = expected_value ; Value = Hello World!
+[2018-11-15 20:57:07,050] INFO  --------- END ---------
+[2018-11-15 20:57:07,050] INFO  Exit loadInitProperties() ...
+[2018-11-15 20:57:07,050] INFO  Setting up Desired Capabilities
+[2018-11-15 20:57:07,056] INFO  Device Query = @os='android'
+[2018-11-15 20:57:07,056] INFO  Desired Capabilities setup complete
+[2018-11-15 20:57:28,770] INFO  Enter startNetworkTunnel() ...
+[2018-11-15 20:57:28,774] INFO  Starting Process with -  C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io/ws-istp --access-key eyJ4cC51IjoyMzIyMjk1LCJ4cC5wIjozLCJ4cC5tIjoiTVRVME1EZ3dOemN6T0RNNU5BIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTYxNjc3MzgsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.vnifvEzvQmT31AqhmX9KD_P-kg2Br9CezcBKFGr_Omk
+[2018-11-15 20:57:28,774] INFO  Path = C:\Users\kishore.kameshwar\Downloads\network-tunnel
+[2018-11-15 20:57:28,794] INFO  Process started - C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io/ws-istp --access-key eyJ4cC51IjoyMzIyMjk1LCJ4cC5wIjozLCJ4cC5tIjoiTVRVME1EZ3dOemN6T0RNNU5BIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTYxNjc3MzgsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.vnifvEzvQmT31AqhmX9KD_P-kg2Br9CezcBKFGr_Omk
+[2018-11-15 20:57:28,795] INFO  Exit TestBase setUp
+[2018-11-15 20:57:28,800] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-15 20:57:28,800] INFO  Loading Local App = http://192.168.1.4
+[2018-11-15 20:57:28,800] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-15 20:58:12,821] INFO  Enter tearDown()
+[2018-11-15 20:58:12,821] INFO  destroying network tunnel process
+[2018-11-15 20:58:43,245] INFO  Enter TestBase setUp
+[2018-11-15 20:58:43,249] INFO  Enter TestBase setUp
+[2018-11-15 20:58:43,252] INFO  Enter loadInitProperties() ...
+[2018-11-15 20:58:43,258] INFO  --------- List Of Properties ---------
+[2018-11-15 20:58:43,351] INFO  Key = seetest.network.tunnelpath ; Value = C:\Users\kishore.kameshwar\Downloads\network-tunnel
+[2018-11-15 20:58:43,355] INFO  Key = xpath.query ; Value = //*[@nodeName='PRE']
+[2018-11-15 20:58:43,355] INFO  Key = ios.app.name ; Value = com.experitest.ExperiBank
+[2018-11-15 20:58:43,355] INFO  Key = local.app.url ; Value = http://192.168.1.4
+[2018-11-15 20:58:43,355] INFO  Key = android.app.name ; Value = com.experitest.ExperiBank/.LoginActivity
+[2018-11-15 20:58:43,355] INFO  Key = seetest.cloud.url ; Value = https://cloud.seetest.io:443/wd/hub
+[2018-11-15 20:58:43,355] INFO  Key = expected_value ; Value = Hello World!
+[2018-11-15 20:58:43,355] INFO  --------- END ---------
+[2018-11-15 20:58:43,355] INFO  Exit loadInitProperties() ...
+[2018-11-15 20:58:43,355] INFO  Setting up Desired Capabilities
+[2018-11-15 20:58:43,365] INFO  Device Query = @os='android'
+[2018-11-15 20:58:43,365] INFO  Desired Capabilities setup complete
+[2018-11-15 20:59:22,069] INFO  Enter startNetworkTunnel() ...
+[2018-11-15 20:59:22,073] INFO  Starting Process with -  C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io/ws-istp --access-key eyJ4cC51IjoyMzIyMjk1LCJ4cC5wIjozLCJ4cC5tIjoiTVRVME1EZ3dOemN6T0RNNU5BIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTYxNjc3MzgsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.vnifvEzvQmT31AqhmX9KD_P-kg2Br9CezcBKFGr_Omk
+[2018-11-15 20:59:22,075] INFO  Path = C:\Users\kishore.kameshwar\Downloads\network-tunnel
+[2018-11-15 20:59:22,095] INFO  Process started - C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io/ws-istp --access-key eyJ4cC51IjoyMzIyMjk1LCJ4cC5wIjozLCJ4cC5tIjoiTVRVME1EZ3dOemN6T0RNNU5BIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTYxNjc3MzgsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.vnifvEzvQmT31AqhmX9KD_P-kg2Br9CezcBKFGr_Omk
+[2018-11-15 20:59:22,096] INFO  Exit TestBase setUp
+[2018-11-15 20:59:22,107] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-15 20:59:22,107] INFO  Loading Local App = http://192.168.1.4
+[2018-11-15 20:59:22,107] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-15 21:00:09,129] INFO  Enter tearDown()
+[2018-11-15 21:00:09,129] INFO  destroying network tunnel process
+[2018-11-15 21:01:49,479] INFO  Enter TestBase setUp
+[2018-11-15 21:01:49,482] INFO  Enter TestBase setUp
+[2018-11-15 21:01:49,483] INFO  Enter loadInitProperties() ...
+[2018-11-15 21:01:49,489] INFO  --------- List Of Properties ---------
+[2018-11-15 21:01:49,570] INFO  Key = seetest.network.tunnelpath ; Value = C:\Users\kishore.kameshwar\Downloads\network-tunnel
+[2018-11-15 21:01:49,574] INFO  Key = xpath.query ; Value = //*[@nodeName='PRE']
+[2018-11-15 21:01:49,574] INFO  Key = ios.app.name ; Value = com.experitest.ExperiBank
+[2018-11-15 21:01:49,574] INFO  Key = local.app.url ; Value = http://192.168.1.4
+[2018-11-15 21:01:49,574] INFO  Key = android.app.name ; Value = com.experitest.ExperiBank/.LoginActivity
+[2018-11-15 21:01:49,574] INFO  Key = seetest.cloud.url ; Value = https://cloud.seetest.io:443/wd/hub
+[2018-11-15 21:01:49,574] INFO  Key = expected_value ; Value = Hello World!
+[2018-11-15 21:01:49,574] INFO  --------- END ---------
+[2018-11-15 21:01:49,574] INFO  Exit loadInitProperties() ...
+[2018-11-15 21:01:49,574] INFO  Setting up Desired Capabilities
+[2018-11-15 21:01:49,626] INFO  Device Query = @os='android'
+[2018-11-15 21:01:49,626] INFO  Desired Capabilities setup complete
+[2018-11-15 21:02:29,705] INFO  Enter startNetworkTunnel() ...
+[2018-11-15 21:02:29,705] INFO  Starting Process with -  C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io/ws-istp --access-key eyJ4cC51IjoyMzIyMjk1LCJ4cC5wIjozLCJ4cC5tIjoiTVRVME1EZ3dOemN6T0RNNU5BIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTYxNjc3MzgsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.vnifvEzvQmT31AqhmX9KD_P-kg2Br9CezcBKFGr_Omk
+[2018-11-15 21:02:29,706] INFO  Path = C:\Users\kishore.kameshwar\Downloads\network-tunnel
+[2018-11-15 21:02:29,717] INFO  Process started - C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io/ws-istp --access-key eyJ4cC51IjoyMzIyMjk1LCJ4cC5wIjozLCJ4cC5tIjoiTVRVME1EZ3dOemN6T0RNNU5BIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTYxNjc3MzgsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.vnifvEzvQmT31AqhmX9KD_P-kg2Br9CezcBKFGr_Omk
+[2018-11-15 21:02:29,717] INFO  Exit TestBase setUp
+[2018-11-15 21:02:29,723] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-15 21:02:29,723] INFO  Loading Local App = http://192.168.1.4
+[2018-11-15 21:02:29,723] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-15 21:04:42,138] INFO  Enter tearDown()
+[2018-11-15 21:04:42,138] INFO  destroying network tunnel process
+[2018-11-15 21:05:06,786] INFO  Enter TestBase setUp
+[2018-11-15 21:05:06,793] INFO  Enter TestBase setUp
+[2018-11-15 21:05:06,798] INFO  Enter loadInitProperties() ...
+[2018-11-15 21:05:06,803] INFO  --------- List Of Properties ---------
+[2018-11-15 21:05:06,901] INFO  Key = seetest.network.tunnelpath ; Value = C:\Users\kishore.kameshwar\Downloads\network-tunnel
+[2018-11-15 21:05:06,902] INFO  Key = xpath.query ; Value = //*[@nodeName='PRE']
+[2018-11-15 21:05:06,902] INFO  Key = ios.app.name ; Value = com.experitest.ExperiBank
+[2018-11-15 21:05:06,902] INFO  Key = local.app.url ; Value = http://192.168.1.4
+[2018-11-15 21:05:06,902] INFO  Key = android.app.name ; Value = com.experitest.ExperiBank/.LoginActivity
+[2018-11-15 21:05:06,902] INFO  Key = seetest.cloud.url ; Value = https://cloud.seetest.io:443/wd/hub
+[2018-11-15 21:05:06,902] INFO  Key = expected_value ; Value = Hello World!
+[2018-11-15 21:05:06,902] INFO  --------- END ---------
+[2018-11-15 21:05:06,903] INFO  Exit loadInitProperties() ...
+[2018-11-15 21:05:06,903] INFO  Setting up Desired Capabilities
+[2018-11-15 21:05:06,976] INFO  Device Query = @os='android'
+[2018-11-15 21:05:06,977] INFO  Desired Capabilities setup complete
+[2018-11-15 21:05:37,913] INFO  Enter startNetworkTunnel() ...
+[2018-11-15 21:05:37,914] INFO  Starting Process with -  C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io/ws-istp --access-key eyJ4cC51IjoyMzIyMjk1LCJ4cC5wIjozLCJ4cC5tIjoiTVRVME1EZ3dOemN6T0RNNU5BIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTYxNjc3MzgsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.vnifvEzvQmT31AqhmX9KD_P-kg2Br9CezcBKFGr_Omk
+[2018-11-15 21:05:37,915] INFO  Path = C:\Users\kishore.kameshwar\Downloads\network-tunnel
+[2018-11-15 21:05:37,927] INFO  Process started - C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io/ws-istp --access-key eyJ4cC51IjoyMzIyMjk1LCJ4cC5wIjozLCJ4cC5tIjoiTVRVME1EZ3dOemN6T0RNNU5BIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTYxNjc3MzgsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.vnifvEzvQmT31AqhmX9KD_P-kg2Br9CezcBKFGr_Omk
+[2018-11-15 21:05:37,928] INFO  Exit TestBase setUp
+[2018-11-15 21:05:37,934] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-15 21:05:37,934] INFO  Loading Local App = http://192.168.1.4
+[2018-11-15 21:05:37,935] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-15 21:05:42,949] INFO  Enter tearDown()
+[2018-11-15 21:05:42,950] INFO  destroying network tunnel process
+[2018-11-15 21:07:07,707] INFO  Enter TestBase setUp
+[2018-11-15 21:07:07,718] INFO  Enter TestBase setUp
+[2018-11-15 21:07:07,721] INFO  Enter loadInitProperties() ...
+[2018-11-15 21:07:07,727] INFO  --------- List Of Properties ---------
+[2018-11-15 21:07:07,878] INFO  Key = seetest.network.tunnelpath ; Value = C:\Users\kishore.kameshwar\Downloads\network-tunnel
+[2018-11-15 21:07:07,878] INFO  Key = xpath.query ; Value = //*[@nodeName='PRE']
+[2018-11-15 21:07:07,879] INFO  Key = ios.app.name ; Value = com.experitest.ExperiBank
+[2018-11-15 21:07:07,879] INFO  Key = local.app.url ; Value = http://192.168.1.4
+[2018-11-15 21:07:07,879] INFO  Key = android.app.name ; Value = com.experitest.ExperiBank/.LoginActivity
+[2018-11-15 21:07:07,880] INFO  Key = seetest.cloud.url ; Value = https://cloud.seetest.io:443/wd/hub
+[2018-11-15 21:07:07,880] INFO  Key = expected_value ; Value = Hello World!
+[2018-11-15 21:07:07,880] INFO  --------- END ---------
+[2018-11-15 21:07:07,881] INFO  Exit loadInitProperties() ...
+[2018-11-15 21:07:07,881] INFO  Setting up Desired Capabilities
+[2018-11-15 21:07:07,968] INFO  Device Query = @os='android'
+[2018-11-15 21:07:07,969] INFO  Desired Capabilities setup complete
+[2018-11-15 21:07:40,402] INFO  Enter startNetworkTunnel() ...
+[2018-11-15 21:07:40,402] INFO  Starting Process with -  C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io/ws-istp --access-key eyJ4cC51IjoyMzIyMjk1LCJ4cC5wIjozLCJ4cC5tIjoiTVRVME1EZ3dOemN6T0RNNU5BIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTYxNjc3MzgsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.vnifvEzvQmT31AqhmX9KD_P-kg2Br9CezcBKFGr_Omk
+[2018-11-15 21:07:40,402] INFO  Path = C:\Users\kishore.kameshwar\Downloads\network-tunnel
+[2018-11-15 21:07:40,425] INFO  Process started - C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io/ws-istp --access-key eyJ4cC51IjoyMzIyMjk1LCJ4cC5wIjozLCJ4cC5tIjoiTVRVME1EZ3dOemN6T0RNNU5BIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTYxNjc3MzgsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.vnifvEzvQmT31AqhmX9KD_P-kg2Br9CezcBKFGr_Omk
+[2018-11-15 21:07:40,425] INFO  Exit TestBase setUp
+[2018-11-15 21:07:40,433] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-15 21:08:18,468] INFO  Loading Local App = http://192.168.1.4
+[2018-11-15 21:08:18,469] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-15 21:08:21,392] INFO  Enter tearDown()
+[2018-11-15 21:08:21,392] INFO  destroying network tunnel process
+[2018-11-15 21:08:54,259] INFO  Enter TestBase setUp
+[2018-11-15 21:08:54,264] INFO  Enter TestBase setUp
+[2018-11-15 21:08:54,269] INFO  Enter loadInitProperties() ...
+[2018-11-15 21:08:54,271] INFO  --------- List Of Properties ---------
+[2018-11-15 21:08:54,476] INFO  Key = seetest.network.tunnelpath ; Value = C:\Users\kishore.kameshwar\Downloads\network-tunnel
+[2018-11-15 21:08:54,477] INFO  Key = xpath.query ; Value = //*[@nodeName='PRE']
+[2018-11-15 21:08:54,477] INFO  Key = ios.app.name ; Value = com.experitest.ExperiBank
+[2018-11-15 21:08:54,478] INFO  Key = local.app.url ; Value = http://192.168.1.4
+[2018-11-15 21:08:54,478] INFO  Key = android.app.name ; Value = com.experitest.ExperiBank/.LoginActivity
+[2018-11-15 21:08:54,478] INFO  Key = seetest.cloud.url ; Value = https://cloud.seetest.io:443/wd/hub
+[2018-11-15 21:08:54,478] INFO  Key = expected_value ; Value = Hello World!
+[2018-11-15 21:08:54,478] INFO  --------- END ---------
+[2018-11-15 21:08:54,478] INFO  Exit loadInitProperties() ...
+[2018-11-15 21:08:54,478] INFO  Setting up Desired Capabilities
+[2018-11-15 21:08:54,508] INFO  Device Query = @os='android'
+[2018-11-15 21:08:54,508] INFO  Desired Capabilities setup complete
+[2018-11-15 21:09:24,942] INFO  Enter startNetworkTunnel() ...
+[2018-11-15 21:09:24,942] INFO  Starting Process with -  C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io/ws-istp --access-key eyJ4cC51IjoyMzIyMjk1LCJ4cC5wIjozLCJ4cC5tIjoiTVRVME1EZ3dOemN6T0RNNU5BIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTYxNjc3MzgsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.vnifvEzvQmT31AqhmX9KD_P-kg2Br9CezcBKFGr_Omk
+[2018-11-15 21:09:24,943] INFO  Path = C:\Users\kishore.kameshwar\Downloads\network-tunnel
+[2018-11-15 21:09:24,955] INFO  Process started - C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io/ws-istp --access-key eyJ4cC51IjoyMzIyMjk1LCJ4cC5wIjozLCJ4cC5tIjoiTVRVME1EZ3dOemN6T0RNNU5BIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTYxNjc3MzgsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.vnifvEzvQmT31AqhmX9KD_P-kg2Br9CezcBKFGr_Omk
+[2018-11-15 21:09:24,955] INFO  Exit TestBase setUp
+[2018-11-15 21:09:24,964] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-15 21:10:32,806] INFO  Loading Local App = http://192.168.1.4
+[2018-11-15 21:10:34,564] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-15 21:11:10,400] INFO  Enter tearDown()
+[2018-11-15 21:11:10,400] INFO  destroying network tunnel process
+[2018-11-15 21:13:49,299] INFO  Enter TestBase setUp
+[2018-11-15 21:13:49,303] INFO  Enter TestBase setUp
+[2018-11-15 21:13:49,307] INFO  Enter loadInitProperties() ...
+[2018-11-15 21:13:49,312] INFO  --------- List Of Properties ---------
+[2018-11-15 21:13:49,402] INFO  Key = seetest.network.tunnelpath ; Value = C:\Users\kishore.kameshwar\Downloads\network-tunnel
+[2018-11-15 21:13:49,402] INFO  Key = xpath.query ; Value = //*[@nodeName='PRE']
+[2018-11-15 21:13:49,402] INFO  Key = ios.app.name ; Value = com.experitest.ExperiBank
+[2018-11-15 21:13:49,402] INFO  Key = local.app.url ; Value = http://192.168.1.4
+[2018-11-15 21:13:49,402] INFO  Key = android.app.name ; Value = com.experitest.ExperiBank/.LoginActivity
+[2018-11-15 21:13:49,402] INFO  Key = seetest.cloud.url ; Value = https://cloud.seetest.io:443/wd/hub
+[2018-11-15 21:13:49,403] INFO  Key = expected_value ; Value = Hello World!
+[2018-11-15 21:13:49,403] INFO  --------- END ---------
+[2018-11-15 21:13:49,403] INFO  Exit loadInitProperties() ...
+[2018-11-15 21:13:49,403] INFO  Setting up Desired Capabilities
+[2018-11-15 21:13:49,428] INFO  Device Query = @os='android'
+[2018-11-15 21:13:49,428] INFO  Desired Capabilities setup complete
+[2018-11-15 21:14:20,600] INFO  Enter startNetworkTunnel() ...
+[2018-11-15 21:14:20,606] INFO  Starting Process with -  C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io/ws-istp --access-key eyJ4cC51IjoyMzIyMjk1LCJ4cC5wIjozLCJ4cC5tIjoiTVRVME1EZ3dOemN6T0RNNU5BIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTYxNjc3MzgsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.vnifvEzvQmT31AqhmX9KD_P-kg2Br9CezcBKFGr_Omk
+[2018-11-15 21:14:20,607] INFO  Path = C:\Users\kishore.kameshwar\Downloads\network-tunnel
+[2018-11-15 21:14:20,653] INFO  Process started - C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io/ws-istp --access-key eyJ4cC51IjoyMzIyMjk1LCJ4cC5wIjozLCJ4cC5tIjoiTVRVME1EZ3dOemN6T0RNNU5BIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTYxNjc3MzgsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.vnifvEzvQmT31AqhmX9KD_P-kg2Br9CezcBKFGr_Omk
+[2018-11-15 21:14:20,653] INFO  Exit TestBase setUp
+[2018-11-15 21:14:20,671] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-15 21:14:20,672] INFO  Loading Local App = http://192.168.1.4
+[2018-11-15 21:14:20,672] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-15 21:14:25,522] INFO  Enter tearDown()
+[2018-11-15 21:14:25,522] INFO  destroying network tunnel process
+[2018-11-15 21:14:58,884] INFO  Enter TestBase setUp
+[2018-11-15 21:14:58,886] INFO  Enter TestBase setUp
+[2018-11-15 21:14:58,891] INFO  Enter loadInitProperties() ...
+[2018-11-15 21:14:58,896] INFO  --------- List Of Properties ---------
+[2018-11-15 21:14:59,003] INFO  Key = seetest.network.tunnelpath ; Value = C:\Users\kishore.kameshwar\Downloads\network-tunnel
+[2018-11-15 21:14:59,003] INFO  Key = xpath.query ; Value = //*[@nodeName='PRE']
+[2018-11-15 21:14:59,003] INFO  Key = ios.app.name ; Value = com.experitest.ExperiBank
+[2018-11-15 21:14:59,003] INFO  Key = local.app.url ; Value = http://192.168.1.4
+[2018-11-15 21:14:59,003] INFO  Key = android.app.name ; Value = com.experitest.ExperiBank/.LoginActivity
+[2018-11-15 21:14:59,004] INFO  Key = seetest.cloud.url ; Value = https://cloud.seetest.io:443/wd/hub
+[2018-11-15 21:14:59,004] INFO  Key = expected_value ; Value = Hello World!
+[2018-11-15 21:14:59,004] INFO  --------- END ---------
+[2018-11-15 21:14:59,004] INFO  Exit loadInitProperties() ...
+[2018-11-15 21:14:59,004] INFO  Setting up Desired Capabilities
+[2018-11-15 21:14:59,067] INFO  Device Query = @os='android'
+[2018-11-15 21:14:59,068] INFO  Desired Capabilities setup complete
+[2018-11-15 21:15:44,424] INFO  Enter startNetworkTunnel() ...
+[2018-11-15 21:15:44,424] INFO  Starting Process with -  C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io/ws-istp --access-key eyJ4cC51IjoyMzIyMjk1LCJ4cC5wIjozLCJ4cC5tIjoiTVRVME1EZ3dOemN6T0RNNU5BIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTYxNjc3MzgsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.vnifvEzvQmT31AqhmX9KD_P-kg2Br9CezcBKFGr_Omk
+[2018-11-15 21:15:44,424] INFO  Path = C:\Users\kishore.kameshwar\Downloads\network-tunnel
+[2018-11-15 21:15:44,455] INFO  Process started - C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io/ws-istp --access-key eyJ4cC51IjoyMzIyMjk1LCJ4cC5wIjozLCJ4cC5tIjoiTVRVME1EZ3dOemN6T0RNNU5BIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTYxNjc3MzgsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.vnifvEzvQmT31AqhmX9KD_P-kg2Br9CezcBKFGr_Omk
+[2018-11-15 21:15:44,456] INFO  Exit TestBase setUp
+[2018-11-15 21:15:44,471] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-15 21:15:44,472] INFO  Loading Local App = http://192.168.1.4
+[2018-11-15 21:15:44,472] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-15 21:18:00,819] INFO  Enter tearDown()
+[2018-11-15 21:18:00,819] INFO  destroying network tunnel process
+[2018-11-15 21:18:36,891] INFO  Enter TestBase setUp
+[2018-11-15 21:18:36,895] INFO  Enter TestBase setUp
+[2018-11-15 21:18:36,897] INFO  Enter loadInitProperties() ...
+[2018-11-15 21:18:36,898] INFO  --------- List Of Properties ---------
+[2018-11-15 21:18:37,170] INFO  Key = seetest.network.tunnelpath ; Value = C:\Users\kishore.kameshwar\Downloads\network-tunnel
+[2018-11-15 21:18:37,170] INFO  Key = xpath.query ; Value = //*[@nodeName='PRE']
+[2018-11-15 21:18:37,170] INFO  Key = ios.app.name ; Value = com.experitest.ExperiBank
+[2018-11-15 21:18:37,170] INFO  Key = local.app.url ; Value = http://192.168.1.4
+[2018-11-15 21:18:37,170] INFO  Key = android.app.name ; Value = com.experitest.ExperiBank/.LoginActivity
+[2018-11-15 21:18:37,170] INFO  Key = seetest.cloud.url ; Value = https://cloud.seetest.io:443/wd/hub
+[2018-11-15 21:18:37,170] INFO  Key = expected_value ; Value = Hello World!
+[2018-11-15 21:18:37,170] INFO  --------- END ---------
+[2018-11-15 21:18:37,170] INFO  Exit loadInitProperties() ...
+[2018-11-15 21:18:37,171] INFO  Setting up Desired Capabilities
+[2018-11-15 21:18:37,229] INFO  Device Query = @os='android'
+[2018-11-15 21:18:37,229] INFO  Desired Capabilities setup complete
+[2018-11-15 21:19:30,041] INFO  Enter startNetworkTunnel() ...
+[2018-11-15 21:19:30,041] INFO  Starting Process with -  C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io/ws-istp --access-key eyJ4cC51IjoyMzIyMjk1LCJ4cC5wIjozLCJ4cC5tIjoiTVRVME1EZ3dOemN6T0RNNU5BIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTYxNjc3MzgsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.vnifvEzvQmT31AqhmX9KD_P-kg2Br9CezcBKFGr_Omk
+[2018-11-15 21:19:30,041] INFO  Path = C:\Users\kishore.kameshwar\Downloads\network-tunnel
+[2018-11-15 21:19:30,062] INFO  Process started - C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io/ws-istp --access-key eyJ4cC51IjoyMzIyMjk1LCJ4cC5wIjozLCJ4cC5tIjoiTVRVME1EZ3dOemN6T0RNNU5BIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTYxNjc3MzgsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.vnifvEzvQmT31AqhmX9KD_P-kg2Br9CezcBKFGr_Omk
+[2018-11-15 21:19:30,062] INFO  Exit TestBase setUp
+[2018-11-15 21:19:30,062] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-15 21:20:56,872] INFO  Loading Local App = http://192.168.1.4
+[2018-11-15 21:20:56,872] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-15 21:23:12,758] INFO  Enter tearDown()
+[2018-11-15 21:23:12,759] INFO  destroying network tunnel process

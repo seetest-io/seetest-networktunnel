@@ -1,0 +1,256 @@
+[2018-11-01 13:56:36,314] INFO  Enter TestBase setUp
+[2018-11-01 13:56:36,319] INFO  Enter startNetworkTunnel() ...
+[2018-11-01 13:56:36,319] INFO  Starting Process with s -  C:\Users\kishore.kameshwar\Downloads\network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 13:56:36,337] INFO  Process started - C:\Users\kishore.kameshwar\Downloads\network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 13:57:14,467] INFO  Enter TestBase setUp
+[2018-11-01 13:57:14,470] INFO  Enter startNetworkTunnel() ...
+[2018-11-01 13:57:14,471] INFO  Starting Process with s -  C:\Users\kishore.kameshwar\Downloads\network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 13:57:14,484] INFO  Process started - C:\Users\kishore.kameshwar\Downloads\network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 13:57:14,485] INFO  Setting up Desired Capabilities
+[2018-11-01 13:57:14,485] INFO  Device = @os='android'
+[2018-11-01 13:57:14,487] INFO  Device Query = @os='android'
+[2018-11-01 13:57:14,488] INFO  Desired Capabilities setup complete
+[2018-11-01 13:57:14,488] INFO  Initializing Android Driver ...
+[2018-11-01 13:57:43,996] INFO  Android Driver Initialized ...
+[2018-11-01 13:58:34,187] INFO  Enter TestBase setUp
+[2018-11-01 13:58:34,192] INFO  Enter startNetworkTunnel() ...
+[2018-11-01 13:58:34,192] INFO  Starting Process with s -  C:\Users\kishore.kameshwar\Downloads\network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 13:58:34,207] INFO  Process started - C:\Users\kishore.kameshwar\Downloads\network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 13:58:34,207] INFO  Setting up Desired Capabilities
+[2018-11-01 13:58:34,207] INFO  Device = @os='android'
+[2018-11-01 13:58:34,210] INFO  Device Query = @os='android'
+[2018-11-01 13:58:34,210] INFO  Desired Capabilities setup complete
+[2018-11-01 13:58:34,210] INFO  Initializing Android Driver ...
+[2018-11-01 13:59:02,306] INFO  Android Driver Initialized ...
+[2018-11-01 14:01:54,100] INFO  Enter TestBase setUp
+[2018-11-01 14:01:54,104] INFO  Enter startNetworkTunnel() ...
+[2018-11-01 14:01:54,104] INFO  Starting Process with s -  C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 14:01:54,142] INFO  Process started - C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 14:01:54,144] INFO  Setting up Desired Capabilities
+[2018-11-01 14:01:54,145] INFO  Device = @os='android'
+[2018-11-01 14:01:54,148] INFO  Device Query = @os='android'
+[2018-11-01 14:01:54,148] INFO  Desired Capabilities setup complete
+[2018-11-01 14:01:54,148] INFO  Initializing Android Driver ...
+[2018-11-01 14:02:16,638] INFO  Android Driver Initialized ...
+[2018-11-01 14:06:16,332] INFO  Enter TestBase setUp
+[2018-11-01 14:06:16,339] INFO  Enter startNetworkTunnel() ...
+[2018-11-01 14:06:16,339] INFO  Starting Process with s -  C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 14:06:16,358] INFO  Process started - C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 14:06:16,359] INFO  Setting up Desired Capabilities
+[2018-11-01 14:06:16,359] INFO  Device = @os='android'
+[2018-11-01 14:06:16,361] INFO  Device Query = @os='android'
+[2018-11-01 14:06:16,362] INFO  Desired Capabilities setup complete
+[2018-11-01 14:06:16,362] INFO  Initializing Android Driver ...
+[2018-11-01 14:06:38,212] INFO  Android Driver Initialized ...
+[2018-11-01 14:06:38,217] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-01 14:08:19,367] INFO  Enter TestBase setUp
+[2018-11-01 14:08:19,371] INFO  Enter startNetworkTunnel() ...
+[2018-11-01 14:08:19,371] INFO  Starting Process with s -  C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 14:08:19,397] INFO  Process started - C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 14:08:19,397] INFO  Setting up Desired Capabilities
+[2018-11-01 14:08:19,398] INFO  Device = @os='android'
+[2018-11-01 14:08:19,401] INFO  Device Query = @os='android'
+[2018-11-01 14:08:19,401] INFO  Desired Capabilities setup complete
+[2018-11-01 14:08:19,402] INFO  Initializing Android Driver ...
+[2018-11-01 14:08:40,880] INFO  Android Driver Initialized ...
+[2018-11-01 14:08:40,884] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-01 14:10:11,095] INFO  Enter TestBase setUp
+[2018-11-01 14:10:11,101] INFO  Enter startNetworkTunnel() ...
+[2018-11-01 14:10:11,102] INFO  Starting Process with s -  C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 14:10:11,124] INFO  Process started - C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 14:10:11,125] INFO  Setting up Desired Capabilities
+[2018-11-01 14:10:11,125] INFO  Device = @os='android'
+[2018-11-01 14:10:11,128] INFO  Device Query = @os='android'
+[2018-11-01 14:10:11,129] INFO  Desired Capabilities setup complete
+[2018-11-01 14:10:11,129] INFO  Initializing Android Driver ...
+[2018-11-01 14:10:33,057] INFO  Android Driver Initialized ...
+[2018-11-01 14:10:33,063] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-01 14:13:18,985] INFO  Enter TestBase setUp
+[2018-11-01 14:13:18,989] INFO  Enter startNetworkTunnel() ...
+[2018-11-01 14:13:18,989] INFO  Starting Process with s -  C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 14:13:19,016] INFO  Process started - C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 14:13:19,016] INFO  Setting up Desired Capabilities
+[2018-11-01 14:13:19,017] INFO  Device = @os='android'
+[2018-11-01 14:13:19,019] INFO  Device Query = @os='android'
+[2018-11-01 14:13:19,019] INFO  Desired Capabilities setup complete
+[2018-11-01 14:13:19,020] INFO  Initializing Android Driver ...
+[2018-11-01 14:13:40,761] INFO  Android Driver Initialized ...
+[2018-11-01 14:13:40,768] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-01 14:13:50,427] INFO  Exit testSampleNetworkTunnelTest()
+[2018-11-01 14:14:30,892] INFO  Enter TestBase setUp
+[2018-11-01 14:14:30,898] INFO  Enter startNetworkTunnel() ...
+[2018-11-01 14:14:30,900] INFO  Starting Process with s -  C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 14:14:30,921] INFO  Process started - C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 14:14:30,921] INFO  Setting up Desired Capabilities
+[2018-11-01 14:14:30,922] INFO  Device = @os='android'
+[2018-11-01 14:14:30,928] INFO  Device Query = @os='android'
+[2018-11-01 14:14:30,928] INFO  Desired Capabilities setup complete
+[2018-11-01 14:14:30,928] INFO  Initializing Android Driver ...
+[2018-11-01 14:17:18,836] INFO  Android Driver Initialized ...
+[2018-11-01 14:17:18,841] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-01 14:18:15,184] INFO  Enter TestBase setUp
+[2018-11-01 14:18:15,188] INFO  Enter startNetworkTunnel() ...
+[2018-11-01 14:18:15,188] INFO  Starting Process with s -  C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 14:18:15,202] INFO  Process started - C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 14:18:15,203] INFO  Setting up Desired Capabilities
+[2018-11-01 14:18:15,203] INFO  Device = @os='android'
+[2018-11-01 14:18:15,206] INFO  Device Query = @os='android'
+[2018-11-01 14:18:15,206] INFO  Desired Capabilities setup complete
+[2018-11-01 14:18:15,207] INFO  Initializing Android Driver ...
+[2018-11-01 14:20:57,313] INFO  Android Driver Initialized ...
+[2018-11-01 14:20:57,318] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-01 14:21:08,968] INFO  Exit testSampleNetworkTunnelTest()
+[2018-11-01 14:41:47,881] INFO  Enter TestBase setUp
+[2018-11-01 14:41:47,889] INFO  Enter startNetworkTunnel() ...
+[2018-11-01 14:41:47,890] INFO  Starting Process with s -  C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 14:41:47,920] INFO  Process started - C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 14:41:47,920] INFO  Setting up Desired Capabilities
+[2018-11-01 14:41:47,921] INFO  Device = @os='android'
+[2018-11-01 14:41:47,923] INFO  Device Query = @os='android'
+[2018-11-01 14:41:47,924] INFO  Desired Capabilities setup complete
+[2018-11-01 14:41:47,924] INFO  Initializing Android Driver ...
+[2018-11-01 14:42:11,267] INFO  Android Driver Initialized ...
+[2018-11-01 14:42:11,278] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-01 14:43:23,213] INFO  Enter tearDown()
+[2018-11-01 14:43:23,214] INFO  destroying process
+[2018-11-01 14:43:42,087] INFO  Enter TestBase setUp
+[2018-11-01 14:43:42,091] INFO  Enter startNetworkTunnel() ...
+[2018-11-01 14:43:42,091] INFO  Starting Process with s -  C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 14:43:42,106] INFO  Process started - C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 14:43:42,106] INFO  Setting up Desired Capabilities
+[2018-11-01 14:43:42,106] INFO  Device = @os='android'
+[2018-11-01 14:43:42,109] INFO  Device Query = @os='android'
+[2018-11-01 14:43:42,109] INFO  Desired Capabilities setup complete
+[2018-11-01 14:43:42,109] INFO  Initializing Android Driver ...
+[2018-11-01 14:44:02,731] INFO  Android Driver Initialized ...
+[2018-11-01 14:44:02,734] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-01 14:44:12,380] INFO  Exit testSampleNetworkTunnelTest()
+[2018-11-01 14:44:12,383] INFO  Enter tearDown()
+[2018-11-01 14:44:12,383] INFO  destroying process
+[2018-11-01 14:56:10,095] INFO  Enter TestBase setUp
+[2018-11-01 14:56:10,098] INFO  Enter startNetworkTunnel() ...
+[2018-11-01 14:56:10,098] INFO  Starting Process with -  @@NETWORK_TUNNEL_FILE_PATH --url @@CLOUD_URL/ws-istp --access-key @@ACCCESS_KEY
+[2018-11-01 14:56:10,102] INFO  Starting Process with - java.lang.ProcessBuilder@4e9ba398
+[2018-11-01 14:56:10,134] INFO  Process started - @@NETWORK_TUNNEL_FILE_PATH --url @@CLOUD_URL/ws-istp --access-key @@ACCCESS_KEY
+[2018-11-01 14:56:10,135] INFO  Setting up Desired Capabilities
+[2018-11-01 14:56:10,135] INFO  Device = @os='android'
+[2018-11-01 14:56:10,141] INFO  Device Query = @os='android'
+[2018-11-01 14:56:10,141] INFO  Desired Capabilities setup complete
+[2018-11-01 14:56:10,141] INFO  Initializing Android Driver ...
+[2018-11-01 14:56:26,845] INFO  Android Driver Initialized ...
+[2018-11-01 14:56:26,848] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-01 14:56:38,650] INFO  Exit testSampleNetworkTunnelTest()
+[2018-11-01 14:56:38,654] INFO  Enter tearDown()
+[2018-11-01 14:56:38,655] INFO  destroying process
+[2018-11-01 15:44:26,896] INFO  Enter TestBase setUp
+[2018-11-01 15:44:26,901] INFO  Enter startNetworkTunnel() ...
+[2018-11-01 15:44:26,901] INFO  Starting Process with -  C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 15:44:26,906] INFO  Path = /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe
+[2018-11-01 15:44:26,926] INFO  Process started - C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 15:44:26,926] INFO  Setting up Desired Capabilities
+[2018-11-01 15:44:26,926] INFO  Device = @os='android'
+[2018-11-01 15:44:26,929] INFO  Device Query = @os='android'
+[2018-11-01 15:44:26,929] INFO  Desired Capabilities setup complete
+[2018-11-01 15:44:26,929] INFO  Initializing Android Driver ...
+[2018-11-01 15:44:48,947] INFO  Android Driver Initialized ...
+[2018-11-01 15:44:48,951] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-01 15:44:56,727] INFO  Enter tearDown()
+[2018-11-01 15:44:56,728] INFO  destroying process
+[2018-11-01 15:46:33,270] INFO  Enter TestBase setUp
+[2018-11-01 15:46:33,275] INFO  Enter startNetworkTunnel() ...
+[2018-11-01 15:46:33,275] INFO  Starting Process with -  C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 15:46:33,279] INFO  Path = /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe
+[2018-11-01 15:46:33,315] INFO  Process started - C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 15:46:33,315] INFO  Setting up Desired Capabilities
+[2018-11-01 15:46:33,316] INFO  Device = @os='android'
+[2018-11-01 15:46:33,318] INFO  Device Query = @os='android'
+[2018-11-01 15:46:33,318] INFO  Desired Capabilities setup complete
+[2018-11-01 15:46:33,319] INFO  Initializing Android Driver ...
+[2018-11-01 15:46:55,863] INFO  Android Driver Initialized ...
+[2018-11-01 15:46:55,867] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-01 15:47:04,950] INFO  Exit testSampleNetworkTunnelTest()
+[2018-11-01 15:47:04,954] INFO  Enter tearDown()
+[2018-11-01 15:47:04,955] INFO  destroying process
+[2018-11-01 15:48:31,042] INFO  Enter TestBase setUp
+[2018-11-01 15:48:31,046] INFO  Enter startNetworkTunnel() ...
+[2018-11-01 15:48:31,047] INFO  Starting Process with -  /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 15:48:31,051] INFO  Path = /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe
+[2018-11-01 15:48:31,068] INFO  Process started - /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 15:48:31,069] INFO  Setting up Desired Capabilities
+[2018-11-01 15:48:31,069] INFO  Device = @os='android'
+[2018-11-01 15:48:31,072] INFO  Device Query = @os='android'
+[2018-11-01 15:48:31,072] INFO  Desired Capabilities setup complete
+[2018-11-01 15:48:31,072] INFO  Initializing Android Driver ...
+[2018-11-01 15:48:51,429] INFO  Android Driver Initialized ...
+[2018-11-01 15:48:51,432] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-01 15:49:01,659] INFO  Exit testSampleNetworkTunnelTest()
+[2018-11-01 15:49:01,660] INFO  Enter tearDown()
+[2018-11-01 15:49:01,660] INFO  destroying process
+[2018-11-01 15:52:13,627] INFO  Enter TestBase setUp
+[2018-11-01 15:52:13,633] INFO  Enter startNetworkTunnel() ...
+[2018-11-01 15:52:13,633] INFO  Starting Process with -  /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 15:52:13,636] INFO  Path = /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe
+[2018-11-01 15:52:13,657] INFO  Process started - /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 15:52:13,657] INFO  Setting up Desired Capabilities
+[2018-11-01 15:52:13,658] INFO  Device = @os='android'
+[2018-11-01 15:52:13,661] INFO  Device Query = @os='android'
+[2018-11-01 15:52:13,661] INFO  Desired Capabilities setup complete
+[2018-11-01 15:52:13,661] INFO  Initializing Android Driver ...
+[2018-11-01 15:52:34,698] INFO  Android Driver Initialized ...
+[2018-11-01 15:52:34,701] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-01 15:52:34,701] INFO  Loading Local App = http://192.168.2.44/
+[2018-11-01 15:52:44,322] INFO  Hello World!
+[2018-11-01 15:52:44,323] INFO  Exit testSampleNetworkTunnelTest()
+[2018-11-01 15:52:44,323] INFO  Enter tearDown()
+[2018-11-01 15:52:44,323] INFO  destroying process
+[2018-11-01 15:55:42,566] INFO  Enter TestBase setUp
+[2018-11-01 15:55:42,572] INFO  Enter startNetworkTunnel() ...
+[2018-11-01 15:55:42,572] INFO  Starting Process with -  /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 15:55:42,576] INFO  Path = /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe
+[2018-11-01 15:55:42,615] INFO  Process started - /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 15:55:42,615] INFO  Setting up Desired Capabilities
+[2018-11-01 15:55:42,615] INFO  Device = @os='android'
+[2018-11-01 15:55:42,618] INFO  Device Query = @os='android'
+[2018-11-01 15:55:42,618] INFO  Desired Capabilities setup complete
+[2018-11-01 15:55:42,618] INFO  Initializing Android Driver ...
+[2018-11-01 15:56:04,290] INFO  Android Driver Initialized ...
+[2018-11-01 15:56:04,298] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-01 15:56:04,298] INFO  Loading Local App = http://192.168.2.44/
+[2018-11-01 15:56:13,464] INFO  Expected = Hello World! ; Actual = Hello World!
+[2018-11-01 15:56:13,472] INFO  Exit testSampleNetworkTunnelTest()
+[2018-11-01 15:56:13,475] INFO  Enter tearDown()
+[2018-11-01 15:56:13,476] INFO  destroying process
+[2018-11-01 16:11:42,744] INFO  Enter TestBase setUp
+[2018-11-01 16:11:42,748] INFO  Enter startNetworkTunnel() ...
+[2018-11-01 16:11:42,749] INFO  Starting Process with -  /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 16:11:42,754] INFO  Path = /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe
+[2018-11-01 16:11:42,764] INFO  Process started - /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 16:11:42,764] INFO  Setting up Desired Capabilities
+[2018-11-01 16:11:42,765] INFO  Device = @os='android'
+[2018-11-01 16:11:42,767] INFO  Device Query = @os='android'
+[2018-11-01 16:11:42,767] INFO  Desired Capabilities setup complete
+[2018-11-01 16:11:42,768] INFO  Initializing Android Driver ...
+[2018-11-01 16:12:03,921] INFO  Android Driver Initialized ...
+[2018-11-01 16:12:03,929] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-01 16:12:03,929] INFO  Loading Local App = http://192.168.2.44/
+[2018-11-01 16:12:03,930] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-01 16:13:18,386] INFO  Enter tearDown()
+[2018-11-01 16:13:18,386] INFO  destroying process
+[2018-11-01 16:13:25,419] INFO  Enter TestBase setUp
+[2018-11-01 16:13:25,423] INFO  Enter startNetworkTunnel() ...
+[2018-11-01 16:13:25,424] INFO  Starting Process with -  /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 16:13:25,427] INFO  Path = /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe
+[2018-11-01 16:13:25,443] INFO  Process started - /C:/experitest/seetest-networktunnel/out/production/resources/network-tunnel.exe --url https://cloud.seetest.io:443/ws-istp --access-key eyJ4cC51IjoyMTA0MDEyLCJ4cC5wIjoyMTA0MDA5LCJ4cC5tIjoiTVRVME1ESTVPRGMzTmpBNU5nIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTU2NTg3ODMsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.s9x1i88TEI96c-Vjk5vIv62ZbTcy5AnTrRRyfPgdhow
+[2018-11-01 16:13:25,443] INFO  Setting up Desired Capabilities
+[2018-11-01 16:13:25,444] INFO  Device = @os='android'
+[2018-11-01 16:13:25,446] INFO  Device Query = @os='android'
+[2018-11-01 16:13:25,446] INFO  Desired Capabilities setup complete
+[2018-11-01 16:13:25,447] INFO  Initializing Android Driver ...
+[2018-11-01 16:13:44,655] INFO  Android Driver Initialized ...
+[2018-11-01 16:13:44,660] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-01 16:13:44,660] INFO  Loading Local App = http://192.168.2.44/
+[2018-11-01 16:13:44,660] INFO  XPATH Query = //*[@nodeName='PRE']
+[2018-11-01 16:13:56,258] INFO  Expected = Hello World!; Actual = Hello World!
+[2018-11-01 16:13:56,266] INFO  Exit testSampleNetworkTunnelTest()
+[2018-11-01 16:13:56,269] INFO  Enter tearDown()
+[2018-11-01 16:13:56,270] INFO  destroying process

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NetworkTunnelTest" verbose="2">
+
+   <test name="NetworkTunnelTest">
+      <parameter name = "os" value="android"/>
+      <classes>
+         <class name="networktunnel.NetworkTunnelTest"/>
+      </classes>
+   </test>
+</suite>

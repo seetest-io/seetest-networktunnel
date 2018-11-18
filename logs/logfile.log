@@ -1,0 +1,120 @@
+[2018-11-18 10:36:31,576] INFO  Enter TestBase setUp
+[2018-11-18 10:36:31,588] INFO  Enter loadInitProperties() ...
+[2018-11-18 10:36:31,592] INFO  --------- List Of Properties ---------
+[2018-11-18 10:36:31,706] INFO  Key = xpath.query ; Value = //*[contains(text(),'Hello')]
+[2018-11-18 10:36:31,707] INFO  Key = local.app.url ; Value = 
+[2018-11-18 10:36:31,707] INFO  Key = ios.app.name ; Value = com.experitest.ExperiBank
+[2018-11-18 10:36:31,707] INFO  Key = seetest.network.tunnelpath ; Value = C:\Users\kishore.kameshwar\Downloads\network-tunnel
+[2018-11-18 10:36:31,707] INFO  Key = expected.value ; Value = Hello World!
+[2018-11-18 10:36:31,707] INFO  Key = local.embedded.response ; Value = Hello World!
+[2018-11-18 10:36:31,707] INFO  Key = seetest.cloud.url ; Value = https://cloud.seetest.io:443/wd/hub
+[2018-11-18 10:36:31,714] INFO  Key = local.embedded.port ; Value = 8080
+[2018-11-18 10:36:31,714] INFO  Key = local.embedded.server ; Value = true
+[2018-11-18 10:36:31,714] INFO  Key = android.app.name ; Value = com.experitest.ExperiBank/.LoginActivity
+[2018-11-18 10:36:31,714] INFO  --------- END ---------
+[2018-11-18 10:36:31,714] INFO  Exit loadInitProperties() ...
+[2018-11-18 10:36:31,716] INFO  --------- Start Embedded HTTP Server ---------
+[2018-11-18 10:36:31,974] INFO  Logging initialized @2668ms
+[2018-11-18 10:36:32,231] INFO  jetty-9.4.0.M0
+[2018-11-18 10:36:32,239] WARN  THIS IS NOT A STABLE RELEASE! DO NOT USE IN PRODUCTION!
+[2018-11-18 10:36:32,239] WARN  Download a stable release from http://download.eclipse.org/jetty/
+[2018-11-18 10:36:32,345] INFO  Started ServerConnector@1c20c3ee{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
+[2018-11-18 10:36:32,347] INFO  Started @3043ms
+[2018-11-18 10:36:32,349] ERROR --------- Started Embedded Java Web Server ---------
+[2018-11-18 10:36:32,349] INFO  --------- Start Tunneling ---------
+[2018-11-18 10:36:32,366] ERROR Unable to start Process - C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io/ws-istp --access-key eyJ4cC51IjoyMzIyMjk1LCJ4cC5wIjozLCJ4cC5tIjoiTVRVME1EZ3dOemN6T0RNNU5BIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTYxNjc3MzgsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.vnifvEzvQmT31AqhmX9KD_P-kg2Br9CezcBKFGr_Omk
+[2018-11-18 10:36:32,366] ERROR Exception ..java.io.IOException: Cannot run program "C:\Users\kishore.kameshwar\Downloads\network-tunnel": CreateProcess error=2, The system cannot find the file specified
+[2018-11-18 10:36:32,366] INFO  Process started - C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io/ws-istp --access-key eyJ4cC51IjoyMzIyMjk1LCJ4cC5wIjozLCJ4cC5tIjoiTVRVME1EZ3dOemN6T0RNNU5BIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTYxNjc3MzgsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.vnifvEzvQmT31AqhmX9KD_P-kg2Br9CezcBKFGr_Omk
+[2018-11-18 10:36:32,366] INFO  --------- Started Tunnel ---------
+[2018-11-18 10:36:32,366] INFO  Enter TestBase setUp
+[2018-11-18 10:36:32,366] INFO  Setting up Desired Capabilities
+[2018-11-18 10:36:32,379] INFO  Device Query = @os='android'
+[2018-11-18 10:36:32,379] INFO  Desired Capabilities setup complete
+[2018-11-18 10:37:21,549] INFO  Logging initialized @835ms
+[2018-11-18 10:37:21,683] INFO  jetty-9.4.0.M0
+[2018-11-18 10:37:21,683] WARN  THIS IS NOT A STABLE RELEASE! DO NOT USE IN PRODUCTION!
+[2018-11-18 10:37:21,685] WARN  Download a stable release from http://download.eclipse.org/jetty/
+[2018-11-18 10:37:22,377] INFO  Started ServerConnector@6df97b55{HTTP/1.1,[http/1.1]}{0.0.0.0:80}
+[2018-11-18 10:37:22,377] INFO  Started @1676ms
+[2018-11-18 11:23:04,929] INFO  Enter TestBase setUp
+[2018-11-18 11:23:04,935] INFO  Enter loadInitProperties() ...
+[2018-11-18 11:23:04,936] INFO  --------- List Of Properties ---------
+[2018-11-18 11:23:04,986] INFO  Key = xpath.query ; Value = //*[contains(text(),'Hello')]
+[2018-11-18 11:23:04,986] INFO  Key = local.app.url ; Value = 
+[2018-11-18 11:23:04,986] INFO  Key = ios.app.name ; Value = com.experitest.ExperiBank
+[2018-11-18 11:23:04,986] INFO  Key = seetest.network.tunnelpath ; Value = C:\Users\kishore.kameshwar\Downloads\network-tunnel
+[2018-11-18 11:23:04,987] INFO  Key = expected.value ; Value = Hello World!
+[2018-11-18 11:23:04,987] INFO  Key = local.embedded.response ; Value = Hello World!
+[2018-11-18 11:23:04,987] INFO  Key = seetest.cloud.url ; Value = https://cloud.seetest.io:443/wd/hub
+[2018-11-18 11:23:04,987] INFO  Key = local.embedded.port ; Value = 8080
+[2018-11-18 11:23:04,987] INFO  Key = local.embedded.server ; Value = true
+[2018-11-18 11:23:04,987] INFO  Key = android.app.name ; Value = com.experitest.ExperiBank/.LoginActivity
+[2018-11-18 11:23:04,987] INFO  --------- END ---------
+[2018-11-18 11:23:04,988] INFO  Exit loadInitProperties() ...
+[2018-11-18 11:23:04,989] INFO  --------- Start Embedded HTTP Server ---------
+[2018-11-18 11:23:05,035] INFO  Logging initialized @1753ms
+[2018-11-18 11:23:05,103] INFO  jetty-9.4.0.M0
+[2018-11-18 11:23:05,103] WARN  THIS IS NOT A STABLE RELEASE! DO NOT USE IN PRODUCTION!
+[2018-11-18 11:23:05,103] WARN  Download a stable release from http://download.eclipse.org/jetty/
+[2018-11-18 11:23:05,153] INFO  Started ServerConnector@7cd0a23{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
+[2018-11-18 11:23:05,153] INFO  Started @1873ms
+[2018-11-18 11:23:05,155] ERROR --------- Started Embedded Java Web Server ---------
+[2018-11-18 11:23:05,155] INFO  --------- Start Tunneling ---------
+[2018-11-18 11:23:05,163] INFO  Process started - C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io/ws-istp --access-key eyJ4cC51IjoyMzIyMjk1LCJ4cC5wIjozLCJ4cC5tIjoiTVRVME1EZ3dOemN6T0RNNU5BIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTYxNjc3MzgsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.vnifvEzvQmT31AqhmX9KD_P-kg2Br9CezcBKFGr_Omk
+[2018-11-18 11:23:05,164] INFO  --------- Started Tunnel ---------
+[2018-11-18 11:23:05,164] INFO  Enter TestBase setUp
+[2018-11-18 11:23:05,164] INFO  Setting up Desired Capabilities
+[2018-11-18 11:23:05,173] INFO  Device Query = @os='android'
+[2018-11-18 11:23:05,173] INFO  Desired Capabilities setup complete
+[2018-11-18 11:23:39,431] INFO  Driver loaded ..
+[2018-11-18 11:23:39,433] INFO  Exit TestBase setUp
+[2018-11-18 11:23:39,450] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-18 11:23:39,450] INFO  Loading Local App = http://192.168.1.6:8080
+[2018-11-18 11:23:41,361] INFO  XPATH Query = //*[contains(text(),'Hello')]
+[2018-11-18 11:23:42,313] INFO  Expected = Hello World!; Actual = Hello World!
+[2018-11-18 11:23:42,314] INFO  Exit testSampleNetworkTunnelTest()
+[2018-11-18 11:23:42,316] INFO  Enter tearDown()
+[2018-11-18 11:23:42,316] INFO  destroying network tunnel process
+[2018-11-18 11:23:42,324] INFO  Stopped ServerConnector@7cd0a23{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
+[2018-11-18 11:23:42,328] WARN  qtp699780352{STOPPING,8<=8<=200,i=0,q=2} rejected org.eclipse.jetty.io.ManagedSelector$$Lambda$4/836430486@3c1a2704
+[2018-11-18 11:23:42,328] WARN  Rejected execution of org.eclipse.jetty.io.ManagedSelector$$Lambda$4/836430486@3c1a2704
+[2018-11-18 11:27:47,326] INFO  Enter TestBase setUp
+[2018-11-18 11:27:47,335] INFO  Enter loadInitProperties() ...
+[2018-11-18 11:27:47,336] INFO  --------- List Of Properties ---------
+[2018-11-18 11:27:47,430] INFO  Key = xpath.query ; Value = //*[contains(text(),'Hello')]
+[2018-11-18 11:27:47,430] INFO  Key = local.app.url ; Value = 
+[2018-11-18 11:27:47,430] INFO  Key = ios.app.name ; Value = com.experitest.ExperiBank
+[2018-11-18 11:27:47,430] INFO  Key = seetest.network.tunnelpath ; Value = C:\Users\kishore.kameshwar\Downloads\network-tunnel
+[2018-11-18 11:27:47,430] INFO  Key = expected.value ; Value = Hello World!
+[2018-11-18 11:27:47,430] INFO  Key = local.embedded.response ; Value = Hello World!
+[2018-11-18 11:27:47,430] INFO  Key = seetest.cloud.url ; Value = https://cloud.seetest.io:443/wd/hub
+[2018-11-18 11:27:47,430] INFO  Key = local.embedded.port ; Value = 8080
+[2018-11-18 11:27:47,430] INFO  Key = local.embedded.server ; Value = true
+[2018-11-18 11:27:47,430] INFO  Key = android.app.name ; Value = com.experitest.ExperiBank/.LoginActivity
+[2018-11-18 11:27:47,431] INFO  --------- END ---------
+[2018-11-18 11:27:47,431] INFO  Exit loadInitProperties() ...
+[2018-11-18 11:27:47,433] INFO  --------- Start Embedded HTTP Server ---------
+[2018-11-18 11:27:47,602] INFO  Logging initialized @2125ms
+[2018-11-18 11:27:47,743] INFO  jetty-9.4.0.M0
+[2018-11-18 11:27:47,744] WARN  THIS IS NOT A STABLE RELEASE! DO NOT USE IN PRODUCTION!
+[2018-11-18 11:27:47,744] WARN  Download a stable release from http://download.eclipse.org/jetty/
+[2018-11-18 11:27:47,795] INFO  Started ServerConnector@7f416310{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
+[2018-11-18 11:27:47,796] INFO  Started @2326ms
+[2018-11-18 11:27:47,796] ERROR --------- Started Embedded Java Web Server ---------
+[2018-11-18 11:27:47,796] INFO  --------- Start Tunneling ---------
+[2018-11-18 11:27:47,805] INFO  Process started - C:\Users\kishore.kameshwar\Downloads\network-tunnel --url https://cloud.seetest.io/ws-istp --access-key eyJ4cC51IjoyMzIyMjk1LCJ4cC5wIjozLCJ4cC5tIjoiTVRVME1EZ3dOemN6T0RNNU5BIiwiYWxnIjoiSFMyNTYifQ.eyJleHAiOjE4NTYxNjc3MzgsImlzcyI6ImNvbS5leHBlcml0ZXN0In0.vnifvEzvQmT31AqhmX9KD_P-kg2Br9CezcBKFGr_Omk
+[2018-11-18 11:27:47,805] INFO  --------- Started Tunnel ---------
+[2018-11-18 11:27:47,805] INFO  Enter TestBase setUp
+[2018-11-18 11:27:47,805] INFO  Setting up Desired Capabilities
+[2018-11-18 11:27:47,815] INFO  Device Query = @os='android'
+[2018-11-18 11:27:47,815] INFO  Desired Capabilities setup complete
+[2018-11-18 11:28:13,982] INFO  Driver loaded ..
+[2018-11-18 11:28:13,982] INFO  Exit TestBase setUp
+[2018-11-18 11:28:13,989] INFO  Enter testSampleNetworkTunnelTest()
+[2018-11-18 11:28:13,989] INFO  Loading Local App = http://192.168.1.6:8080
+[2018-11-18 11:28:16,131] INFO  XPATH Query = //*[contains(text(),'Hello')]
+[2018-11-18 11:28:17,130] INFO  Expected = Hello World!; Actual = Hello World!
+[2018-11-18 11:28:17,131] INFO  Exit testSampleNetworkTunnelTest()
+[2018-11-18 11:28:17,133] INFO  Enter tearDown()
+[2018-11-18 11:28:17,134] INFO  destroying network tunnel process
+[2018-11-18 11:28:17,145] INFO  Stopped ServerConnector@7f416310{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
