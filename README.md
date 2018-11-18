@@ -31,16 +31,19 @@ This example will cover:
 
     Go to the cloud "Mobile Application Center" and upload both apps 
     https://cloud.seetest.io/index.html#/applications
+
 4. Follow the video to download the Seetest Network Tunneling Executable and save it in local machine.
 
    ![Scheme](images/TunnelDownload.gif)
 
+
 5. Configure path of the downloaded network_tunnwel.exe in src/main/java/resources/seetest.properties.
+s
     ```
     seetest.network.tunnelpath=<full_path of Downloaded Network_Tunnel.exe>.
     ```
 
-5. To run the tests,
+6. To run the tests,
     
     Please ensure that following environment variables are set.
 
