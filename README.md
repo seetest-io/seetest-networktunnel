@@ -38,7 +38,7 @@ This example will cover:
 
 
 5. Configure path of the downloaded network_tunnwel.exe in src/main/java/resources/seetest.properties.
-s
+
     ```
     seetest.network.tunnelpath=<full_path of Downloaded Network_Tunnel.exe>.
     ```
@@ -70,9 +70,9 @@ s
 
 ### How to change to your own application
 
-1. Upload you application to the cloud
+1. Upload yours application to the cloud
 
-   (review step two in guide)
+    (review step two in guide)
 
 2. Change the android application name or iOS application name in the src/main/java/resources/seetest.properties file
 
@@ -90,7 +90,7 @@ s
 
 3. Modify the tests
 
-Change the @Test methods in EriBankTests source.
+    Change the @Test methods in EriBankTests source.
 
-You can paste the code you've exported from SeeTestAutomation
+    You can paste the code you've exported from SeeTestAutomation
 
