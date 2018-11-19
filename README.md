@@ -32,9 +32,7 @@ This example will cover:
     Go to the cloud "Mobile Application Center" and upload both apps 
     https://cloud.seetest.io/index.html#/applications
 
-4. Follow the video to download the Seetest Network Tunneling Executable and save it in local machine.
-
-   ![Scheme](images/TunnelDownload.gif)
+4. Follow the video to download the Seetest Network Tunneling Executable and save it in local machine. ![Scheme](images/TunnelDownload.gif)
 
 
 5. Configure path of the downloaded network_tunnwel.exe in src/main/java/resources/seetest.properties.
