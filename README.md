@@ -2,13 +2,11 @@
 
 This Project demonstrates how an Automated test which uses Local Application can be tested against seetest cloud using Network Tunnelling.
 
+
 Following steps explains what this Test suite does.
 
-Prerequisite: This needs the Seetest Network Tunnel to be downloaded from seetest cloud.
-              A video is attached in Step 3 for the same.
-
 1. This test packages an Embedded Hello World Web Server and starts it on the IP/PORT configured in properties file.
-2. Runs the Network Tunnel executable so that so that Tunneling is established
+2. Runs the Network Tunnel executable so that tunneling to the seetest cloud is established.
 3. A browser instance is then loaded in a chosen device in seetest cloud which contacts local machine's webserver from cloud.
 4. Operations/Asserts are performed on the Simple Hello World Application.
 
@@ -18,7 +16,7 @@ Prerequisite: This needs the Seetest Network Tunnel to be downloaded from seetes
 1. Clone this git repository
 
 	```
-	git clone 
+	git clone
 	```
 
 2. Obtain access key from seetest.io cloud
@@ -30,7 +28,7 @@ Prerequisite: This needs the Seetest Network Tunnel to be downloaded from seetes
 
 3. Follow the video to download the Seetest Network Tunneling Executable and save it in local machine. ![Scheme](images/TunnelDownload.gif)
 
-4.  In Linux and Mac hosts, make sure you give execute permission to the downloaded file.
+4. In Linux and Mac hosts, make sure you give execute permission to the downloaded Network Tunneling executable.
 
 5. Configure path of the downloaded network_tunnwel.exe in src/main/java/resources/seetest.properties.
 
@@ -41,7 +39,7 @@ Prerequisite: This needs the Seetest Network Tunnel to be downloaded from seetes
 6. Configure your local network interface card IP to the property local.embedded.host in src/main/java/resources/seetest.properties.
 
     ```
-    local.embedded.host=<IP>
+    local.embedded.host=<your machine ip>
     ```
 
 5. To run the tests,
