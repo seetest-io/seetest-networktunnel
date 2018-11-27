@@ -2,13 +2,15 @@
 
 This Project demonstrates how an Automated test which uses Local Application can be tested against seetest cloud using Network Tunnelling.
 
-This example will cover:
+Following steps explains what this Test suite does.
 
-1. Test which run against seetest cloud.
-2. This test packages an Embedded Hello World Web Server and starts it.
-4. Seetest Tunnel is started from the test so that Tunneling is established
-5. A browser instance is then loaded in a chosen device in seetest cloud which contacts local machine's webserver from cloud.
-6. Operations/Asserts are performed on the Simple Hello World Application.
+Prerequisite: This needs the Seetest Network Tunnel to be downloaded from seetest cloud.
+              A video is attached in Step 3 for the same.
+
+1. This test packages an Embedded Hello World Web Server and starts it on the IP/PORT configured in properties file.
+2. Runs the Network Tunnel executable so that so that Tunneling is established
+3. A browser instance is then loaded in a chosen device in seetest cloud which contacts local machine's webserver from cloud.
+4. Operations/Asserts are performed on the Simple Hello World Application.
 
 
 ### Steps to run demo test
@@ -25,23 +27,24 @@ This example will cover:
 
     note :  you need to have a valid subscription or a trial to run this test (Trial \ paid)
 
-3. Upload the eribank application to your project
-    Download the Android app : https://experitest.s3.amazonaws.com/eribank.apk
-    Download the iOS app : https://experitest.s3.amazonaws.com/EriBank.ipa
 
-    Go to the cloud "Mobile Application Center" and upload both apps 
-    https://cloud.seetest.io/index.html#/applications
+3. Follow the video to download the Seetest Network Tunneling Executable and save it in local machine. ![Scheme](images/TunnelDownload.gif)
 
-4. Follow the video to download the Seetest Network Tunneling Executable and save it in local machine. ![Scheme](images/TunnelDownload.gif)
-
+4.  In Linux and Mac hosts, make sure you give execute permission to the downloaded file.
 
 5. Configure path of the downloaded network_tunnwel.exe in src/main/java/resources/seetest.properties.
 
     ```
-    seetest.network.tunnelpath=<full_path of Downloaded Network_Tunnel.exe>.
+    seetest.network.tunnelpath=<full_path of Downloaded Network_Tunnel.exe>
     ```
 
-6. To run the tests,
+6. Configure your local network interface card IP to the property local.embedded.host in src/main/java/resources/seetest.properties.
+
+    ```
+    local.embedded.host=<IP>
+    ```
+
+5. To run the tests,
     
     Please ensure that following environment variables are set.
 
@@ -65,30 +68,3 @@ This example will cover:
 	```
 	gradlew runTests
 	```
-
-### How to change to your own application
-
-1. Upload yours application to the cloud
-
-    (review step two in guide)
-
-2. Change the android application name or iOS application name in the src/main/java/resources/seetest.properties file
-
-    For IOS,
-    
-	```
-	ios.app.name = com.company.app
-	``` 
-    
-    For Android,
-    
-    ```
-    android.app.name = com.company.app/.appActivity
-    ```
-
-3. Modify the tests
-
-    Change the @Test methods in EriBankTests source.
-
-    You can paste the code you've exported from SeeTestAutomation
-

@@ -17,6 +17,7 @@ public class SeeTestProperties {
     public static String SEETEST_IO_NETWORK_URL;
 
     public static String EMBEDDED_SERVER = "local.embedded.server";
+    public static String EMBEDDED_SERVER_HOST = "local.embedded.host";
     public static String EMBEDDED_SERVER_RESPONSE = "local.embedded.response";
     public static String EMBEDDED_SERVER_PORT = "local.embedded.port";
 
@@ -52,7 +53,7 @@ public class SeeTestProperties {
             LOGGER.warn("Could not load init properties", pathToProperties, e);
             throw new RuntimeException("Could not init properties from path!", e);
         }
-
+        LOGGER.info("Loading properties from .. " + pathToProperties);
         LOGGER.info("--------- List Of Properties ---------");
         properties.forEach((key, value) -> LOGGER.info("Key = " + key + " ; Value = " + value));
         LOGGER.info("--------- END ---------");

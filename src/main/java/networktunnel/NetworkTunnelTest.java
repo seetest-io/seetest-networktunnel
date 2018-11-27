@@ -16,6 +16,7 @@ import utils.SeeTestProperties;
 
 import java.io.IOException;
 import java.net.InetAddress;
+import java.net.InetSocketAddress;
 import java.net.URL;
 import java.net.UnknownHostException;
 
@@ -94,13 +95,20 @@ public class NetworkTunnelTest extends TestBase {
         LOGGER.info("--------- Start Embedded HTTP Server ---------");
         String response = properties.getProperty(SeeTestProperties.EMBEDDED_SERVER_RESPONSE);
         int port = Integer.parseInt(properties.getProperty(SeeTestProperties.EMBEDDED_SERVER_PORT));
+        String ip = properties.getProperty(SeeTestProperties.EMBEDDED_SERVER_HOST);
+
+        if (ip == null || ip.isEmpty()) {
+            throw new RuntimeException("Please configure " + SeeTestProperties.EMBEDDED_SERVER_HOST +
+                    " in seetest.properties file");
+        }
 
         try {
-            localApplicationUrl = String.format("http://%s:%s",InetAddress.getLocalHost().getHostAddress(),port) ;
+            InetSocketAddress addr = InetSocketAddress.createUnresolved(ip,port);
+            localApplicationUrl = String.format("http://%s:%s", InetAddress.getByName(ip),port) ;
+            server = new Server(addr);
         } catch (UnknownHostException e) {
             LOGGER.error("Unable to start Embedded Java Web Server");
         }
-        server = new Server(port);
         server.setHandler(new JettyHelloWorldServer(response));
         try {
             server.start();

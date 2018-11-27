@@ -42,3 +42,12 @@ task runTests(type: JavaExec, dependsOn: 'classes') {
             project.sourceSets.test.runtimeClasspath)
     args = ["./src/main/java/testng.xml"]
 }
+
+task runServer(type: JavaExec, dependsOn: 'classes') {
+    main = 'networktunnel.JettyHelloWorldServer'     
+    classpath = files("./src/test/resources", 
+            project.sourceSets.main.compileClasspath,             
+            project.sourceSets.test.compileClasspath,             
+            project.sourceSets.main.runtimeClasspath,             
+            project.sourceSets.test.runtimeClasspath) 
+}
