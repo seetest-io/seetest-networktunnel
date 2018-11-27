@@ -20,6 +20,9 @@ public class SeeTestProperties {
     public static String EMBEDDED_SERVER_HOST = "local.embedded.host";
     public static String EMBEDDED_SERVER_RESPONSE = "local.embedded.response";
     public static String EMBEDDED_SERVER_PORT = "local.embedded.port";
+    public static String SEETEST_NETWORK_TUNNELPATH = "seetest.network.tunnelpath";
+
+    public static String pathToProperties;
 
     static {
         try {
@@ -45,7 +48,7 @@ public class SeeTestProperties {
         Properties properties = new Properties();
         LOGGER.info("Enter loadInitProperties() ...");
 
-        String pathToProperties = Objects.requireNonNull(SeeTestProperties.class.getClassLoader().getResource(PROPERTIES_FILENAME)).getFile();
+        pathToProperties = Objects.requireNonNull(SeeTestProperties.class.getClassLoader().getResource(PROPERTIES_FILENAME)).getFile();
 
         try (FileReader fr = new FileReader(pathToProperties)) {
             properties.load(fr);

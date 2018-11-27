@@ -20,6 +20,9 @@ import java.net.InetSocketAddress;
 import java.net.URL;
 import java.net.UnknownHostException;
 
+import static utils.SeeTestProperties.SEETEST_NETWORK_TUNNELPATH;
+import static utils.SeeTestProperties.pathToProperties;
+
 
 /**
  * Network Tunnel Test for Seetest.
@@ -45,7 +48,6 @@ import java.net.UnknownHostException;
 public class NetworkTunnelTest extends TestBase {
 
     private static final String ENV_VAR_ACCESS_KEY = "SEETEST_IO_ACCESS_KEY";
-    private static final String NETWORK_TUNNEL_PATH = "seetest.network.tunnelpath";
     private static final String LOCAL_APP_URL = "local.app.url";
     private static final String XPATH_QUERY = "xpath.query";
     private static final String EXPECTED_VALUE = "expected.value";
@@ -98,8 +100,14 @@ public class NetworkTunnelTest extends TestBase {
         String ip = properties.getProperty(SeeTestProperties.EMBEDDED_SERVER_HOST);
 
         if (ip == null || ip.isEmpty()) {
-            throw new RuntimeException("Please configure " + SeeTestProperties.EMBEDDED_SERVER_HOST +
-                    " in seetest.properties file");
+            StringBuilder error = new StringBuilder();
+            error.append("Please configure ")
+                    .append(SeeTestProperties.EMBEDDED_SERVER_HOST)
+                    .append(" in ")
+                    .append(pathToProperties);
+
+            LOGGER.error(error.toString());
+            throw new RuntimeException(error.toString());
         }
 
         try {
@@ -124,7 +132,17 @@ public class NetworkTunnelTest extends TestBase {
     private void startNetworkTunnel() {
 
         LOGGER.info("--------- Start Tunneling ---------");
-        String networkTunnelFilePath = properties.getProperty(NETWORK_TUNNEL_PATH);
+        String networkTunnelFilePath = properties.getProperty(SEETEST_NETWORK_TUNNELPATH);
+
+        if (networkTunnelFilePath == null || networkTunnelFilePath.isEmpty()) {
+            StringBuilder error = new StringBuilder();
+            error.append("Please configure ")
+                    .append(SeeTestProperties.SEETEST_NETWORK_TUNNELPATH)
+                    .append(" in ")
+                    .append(pathToProperties);
+            LOGGER.error(error.toString());
+            throw new RuntimeException(error.toString());
+        }
         StringBuilder networkTunnelConnectString = new StringBuilder(networkTunnelFilePath);
         networkTunnelConnectString.append(" --url ").append(SeeTestProperties.SEETEST_IO_NETWORK_URL);
         networkTunnelConnectString.append(" --access-key ").append(accessKey);
