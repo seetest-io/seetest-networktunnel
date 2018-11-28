@@ -28,22 +28,6 @@ import static utils.SeeTestProperties.pathToProperties;
  * Network Tunnel Test for Seetest.
  *
  *
- * USAGE
- *
- * set ENVIORNMENT variables
- *
- * SEETEST_IO_ACCESS_KEY -> access key of Valid user of seetest cloud.
- *
- * OS -> "android" or "ios"
- *
- * LOCAL_APP -> Local Web URL
- *
- * EXPECTED_VALUE -> Expected value for the test
- *
- * XPATH_QUERY -> Element to test (with text value against which EXPECTED_VALUE will be asserted)
- *
- *
- *
  */
 public class NetworkTunnelTest extends TestBase {
 
