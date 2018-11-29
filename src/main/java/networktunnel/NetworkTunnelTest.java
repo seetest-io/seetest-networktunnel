@@ -88,7 +88,7 @@ public class NetworkTunnelTest extends TestBase {
             error.append("Please configure ")
                     .append(SeeTestProperties.EMBEDDED_SERVER_HOST)
                     .append(" in ")
-                    .append("src/main/java/resources/seetest.properties");
+                    .append("src/main/resources/seetest.properties");
 
             LOGGER.error(error.toString());
             throw new RuntimeException(error.toString());
@@ -123,7 +123,7 @@ public class NetworkTunnelTest extends TestBase {
             error.append("Please configure ")
                     .append(SeeTestProperties.SEETEST_NETWORK_TUNNELPATH)
                     .append(" in ")
-                    .append("src/main/java/resources/seetest.propertiess");
+                    .append("src/main/resources/seetest.properties");
             LOGGER.error(error.toString());
             throw new RuntimeException(error.toString());
         }

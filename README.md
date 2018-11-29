@@ -30,7 +30,7 @@ Following steps explains what this Test suite does.
 
 4. In Linux and Mac hosts, make sure you give execute permission to the downloaded Network Tunneling executable.
 
-5. Configure path of the downloaded network_tunnwel.exe in src/main/java/resources/seetest.properties.
+5. Configure path of the downloaded network_tunnwel.exe in src/main/resources/seetest.properties.
 
     ```
     seetest.network.tunnelpath=<full_path of Downloaded Network_Tunnel.exe>
